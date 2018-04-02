@@ -1,0 +1,542 @@
+<resources>
+    <string name="app_name">Turistas</string>
+
+    <string name="Mažeikiai">Mažeikiai fragment</string>
+    <string name="title_activity_nlaisves30">nlaisves30</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="pakalnes5nr">(8–656) 74580</string>
+    <string name="airovitosnr">(8–684) 47299</string>
+    <string name="taudazasvydis1">+37068999933</string>
+    <string name="taudazasvydis2">+37065627027</string>
+    <string name="UzsukiteSiauliuose">Užsukite Šiauliuose</string>
+    <string name="S_Baras">S Baras</string>
+    <string name="Skonio_studija">Skonio studija</string>
+    <string name="Senasis_sodzius">Senasis sodzius</string>
+    <string name="Black_Bar">Black Bar</string>
+    <string name="Arkos">Arkos</string>
+    <string name="DonVino">DonVino</string>
+    <string name="Juone_pastuoge">Juone pastuoge</string>
+    <string name="My_thai">My thai</string>
+    <string name="Can_Can">Can Can</string>
+    <string name="Blic_Bar">Blic Bar</string>
+    <string name="Google_Siauliu_Restoranai"><![CDATA[https://www.google.lt/search?rlz=1C1CHBF_enLT747LT747&ei=dMT8WZClDYr36AT864i4BQ&q=Restoranai+%C5%A0iauliuose&oq=Restoranai+%C5%A0iauliuose&gs_l=psy-ab.3..0j0i22i30k1l5.356008.363880.0.364007.16.14.2.0.0.0.221.1055.11j1j1.13.0....0...1.1.64.psy-ab..1.15.1064...35i39k1j0i20i263k1j0i22i10i30k1.0.kZMrfP2Qb7Q]]></string>
+    <string name="kaip_naudotis">Kaip naudotis?</string>
+    <string name="naudotos_programos">Naudotos programos</string>
+    <string name="aerodromas">Aerodromas</string>
+    <string name="kontaktai">Kontaktai</string>
+    <string name="TelsiuAerodromas">Tel. nr. (8–656) 74580</string>
+    <string name="TelsiuAerodromasAdresas">Adresas: Pakalnės g. 5, Telšiai 87122</string>
+    <string name="phonebutton">PhoneButton</string>
+    <string name="mapsbutton">MapsButton</string>
+    <string name="MoreButton">MoreButton</string>
+    <string name="airovita">Airovita</string>
+    <string name="AirovitaDescription">Kretingoje įsikūrusiuose nakvynės namuose „Airovita kambariai nakvynei“ galėsite nemokamai naudotis belaidžiu internetu ir privačia automobilių stovėjimo aikštele.
+&#xA; &#xA;Visuose numeriuose yra plokščiaekraniai televizoriai, o kai kuriuose – poilsiui skirtos svetainės erdvės ir terasos arba balkonai. Atskiruose vonios kambariuose įrengtos vonios arba dušai. Svečiams suteikiami plaukų džiovintuvai bei nemokamų higienos reikmenų rinkiniai.
+&#xA; &#xA;Apgyvendinimo įstaigoje yra bendras poilsio salonas.&#xA;&#xA; Atstumai:
+&#xA;Palanga - 11 km., Klaipėda – 22 km., Palangos tarptautinis oro uostas - 12 km. </string>
+    <string name="AirovitaNr">Tel. nr. (8–684) 47299</string>
+    <string name="AirovitaAdress">Adresas: J. Basanavičiaus g. 93, Kretinga 97125</string>
+    <string name="ant_kalnoTitle">Ant kalno</string>
+    <string name="AntKalnoDescription">Žemaitijos sostinėje - Telšiuose įsikūrusi kavinė „Ant kalno“ laukia Jūsų! Čia maloniai ir linksmai praleisti laiką jaukioje aplinkoje, paskanausite gardžių patiekalų ir pasilepinsite desertais. Kavinė siūlo platų įvairių gėrimų, užkandžių, salotų, karštų patiekalų bei desertu asortimentą.Nežinote ko paskanauti? Visada Jums pagelbės aptarnaujantis personalas.</string>
+    <string name="AntKalnoTelNR">Tel. nr. (8–444) 76016</string>
+    <string name="AntKalnoAdress">Kalno g. 18, Telšiai 87133</string>
+    <string name="NameOfCreator">Justas Glodenis</string>
+    <string name="NaudotosProgramos">Naudotos programos:</string>
+    <string name="PhotoShop">Adobe Photoshop</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="Browser">Internetas</string>
+    <string name="MazeikiaiArkosTitle">Arkos</string>
+    <string name="MazeikiaiArkosDescription">Svečių numeriuose rasite palydovinius kanalus rodančius televizorius, kavos virimo aparatus, vonias arba dušus, nemokamus higienos reikmenis ir rašomuosius stalus. Visuose numeriuose yra vonios kambariai su plaukų džiovintuvais, o kai kuriuose – svetainės zonos. Juose taip pat rasite drabužių spintas ir virdulius. Visada rasite karštus ir skanius dienos pietus. Taip pat yra organizuojami banketai, furšetai, vestuvės, krikštynos ir jubiliejų šventės. Savaitgaliais jūsų laukia visada linksmi ir smagūs muzikiniai vakarai.</string>
+    <string name="MazeikiaiArkosTelNr">Tel. nr. 8–646-02057</string>
+    <string name="MazeikiaiArkosAddres">Adresas: Gamyklos gatvė 41, Mažeikiai</string>
+    <string name="SkuodiskioUzeigaTitle">Skuodiškio užeiga</string>
+    <string name="SkuodiskioUzeigaDescription">Vos už 80 metrų nuo Skuodo autobusų stoties įsikūrusiuose nakvynės namuose „Aroma Skuodiškio užeiga“ nuomojami dviračiai ir auga sodas, kuriame pastatytos kepsninės.
+&#xA; &#xA;Klasikinio stiliaus „Aroma“ numeriuose yra kabelinius kanalus rodantys plokščiaekraniai televizoriai, elektriniai virduliai ir vonios kambariai, kuriuose rasite rankšluosčius bei dušus arba vonias. Nakvynės namuose veikia nemokamas belaidis internetas.
+&#xA; &#xA;Pageidaujantiems svečiams už papildomą mokestį teikiamos pervežimo paslaugos, o registratūra dirba visą parą. Viešnagės metu galėsite atsipalaiduoti sode ir apsilankyti restorane, kuriame ruošiami lietuviški bei europietiški valgiai. Automobilių stovėjimo aikštelė – nemokama. </string>
+    <string name="SkuodiskioUzeigaTelNr">Tel. nr. (8-655) 58890</string>
+    <string name="SkuodiskioUzeigaAddres">Adresas: Vilniaus g. 21, Skuodas 98111</string>
+    <string name="naktiniai_klubai">Naktiniai Klubai</string>
+    <string name="bildukas">Bildukas</string>
+    <string name="old_house">Old House</string>
+    <string name="OldHouseAddres">Adresas: Laisvės g. 5, Mažeikiai 89213</string>
+    <string name="OldHouseTelNr">Tel. nr. (8-644) 00080</string>
+    <string name="phoneimage">PhoneImage</string>
+    <string name="mapimage">MapImage</string>
+    <string name="BildukasTelNr">Tel. nr. (8-443) 91710</string>
+    <string name="BilduaksAdresas">Mažeikiai 89233</string>
+    <string name="PegasasTitle">Pegasas</string>
+    <string name="PegasasTelNr">Tel. nr. (8-443) 90180</string>
+    <string name="PegasasAdress">Adresas: Žemaitijos g. 20, Mažeikiai 89151</string>
+    <string name="BlackBarTitle">Black Bar</string>
+    <string name="BlackBarDescription">„Black Bar“– neįpareigojančios jaukios aplinkos gastropub‘as, įsikūręs viename iš seniausių ir turtingą istoriją turinčių Šiaulių pastatų. Čia puikus, su meile gaminamas maistas bei įvairūs gėrimai laukia gerai nusiteikusių, skonį ir kokybę vertinančių bendraminčių. „Black Bar“ turi ko pasiūlyti gero alaus mėgėjams, vyno gurmanams bei stipriųjų gėrimų vertintojams.</string>
+    <string name="BlackBarTelNR">Tel. nr. (8-642) 44445</string>
+    <string name="BlackBarAddres">Adresas: Vasario 16-osios g. 48 Šiauliai</string>
+    <string name="telpic">TelPic</string>
+    <string name="mappic">MapPic</string>
+    <string name="BlicBar">Blic Bar</string>
+    <string name="BlicBarDescription">„Blic” („Blicbaris”) - tai baras Šiauliuose, kuriame galite mėgautis gyva muzika kartu su bokalu skanaus alaus, papietauti, paragauti firminės baro sriubos „Blic”.</string>
+    <string name="BlicBarTelNR">Tel. nr. (8-604) 90082</string>
+    <string name="BlicBarAddres">Adresas: Tilžės g. 155, Šiauliai 76297</string>
+    <string name="Boulingas">Boulingas</string>
+    <string name="MazeikiuBoulingasTelNR">Tel. nr. 8 616 92999</string>
+    <string name="MazeikiuBoulingasAddres">Adresas: Gamyklos g. 1, Mažeikiai</string>
+    <string name="CanCanPizzaSiauliaiTitle">Can Can Pizza</string>
+    <string name="CanCanPizzaSiauliaiDescription">Šiuolaikiška ir moderni aplinka leis pasijusti taip, lyg pietautum Manheteno centre, o malonus ir šiltas aptarnavimas vilios sugrįžti dar ne kartą. „CAN CAN PIZZA“ ateitį kuria šiandien, todėl mes esame viena populiariausių picerijų visoje Lietuvoje.</string>
+    <string name="CanCanPizzaSiauliaiTelNr">Tel. nr. (8-659) 78570</string>
+    <string name="CanCanPizzaSiauliaiAddres">Adresas: Tilžės g. 225, Šiauliai 76200</string>
+    <string name="CanCanPizzaSiauliaiTelNr2">Tel. nr. (8-659) 04150</string>
+    <string name="CanCanPizzaSiauliaiAddres2">Adresas: Aido g. 8, Šiauliai 78322</string>
+    <string name="CanCanMazeikiaiDescription">Šiuolaikiška ir moderni aplinka leis pasijusti taip, lyg pietautum Manheteno centre, o malonus ir šiltas aptarnavimas vilios sugrįžti dar ne kartą. „CAN CAN PIZZA“ ateitį kuria šiandien, todėl yra viena populiariausių picerijų visoje Lietuvoje.</string>
+    <string name="CanCanPicaMazeikiaiTelNr">Tel. nr. (8-659) 13265</string>
+    <string name="CanCanPicaMazeikiaiAddres">Adresas: Žemaitijos g. 20b-5, Mažeikiai 89151</string>
+    <string name="JustasFacebook">https://www.facebook.com/Justas.Glo</string>
+    <string name="CharlieMazeikiaiTitle">Charlie pizza</string>
+    <string name="CharlieMazeikiaiDescription">Charlie pizza - visiems mėgstantiems picas ir lengvus užkandžius, dievinantiems modernumą, bet kartu grįžtantiems prie jaukios ir šiuolaikiškos atmosferos.</string>
+    <string name="CharlieMazeikiaiTelNR">Tel. nr. (8-610) 01809</string>
+    <string name="CharlieMazeikiaiAddres">Adresas: Laisvės g. 56, Mažeikiai 89223</string>
+    <string name="DonVinoTitle">Don Vino</string>
+    <string name="DonVinoDescription">Erdviame „Don Vino“ restorane galėsite paragauti ne tik įvairių vyno rūšių, bet ir įmantrių, gurmaniškų europietiškos virtuvės patiekalų.Restorano virtuvės meistrai taip pat siūlo ir dienos pietų meniu, kuris atnaujinamas kasdien.Jūsų laukia su meile pagaminti gurmaniški patiekalai, kruopščiai atrinktas vyno meniu, jauki atmosfera, interjeras, papuoštas ryškiomis gėlėmis padabintais šviestuvais ir malonus aptarnavimas!</string>
+    <string name="DonVinoTelNr">Tel. nr. (8-620) 33657</string>
+    <string name="DonVinoAddres">Adresas: Gardino g. 2, Šiauliai 78230</string>
+    <string name="DziugoKalnasDescription">Telšiuose įsikūrusiuose nakvynės namuose „Džiugo kalnas“ galima apsistoti su naminiais gyvūnais, Automobilius nemokamai pasistatyti privačioje aikštelėje.
+&#xA; &#xA;Visuose numeriuose rasite televizorius, virdulius ir vonios kambarius su dušais.
+&#xA; &#xA; Nakvynės namuose veikia kirpykla.
+&#xA; &#xA; Pageidaujantiems nuomojami dviračiai ir automobiliai. Artimiausias, Palangos tarptautinis, oro uostas yra už 72 km. "</string>
+    <string name="DziugoKalnasTitle">Džiugo Kalnas</string>
+    <string name="DziugoKalnasTelNR">Tel. nr. (8-620) 22394</string>
+    <string name="DziugoKalnasAddres">Adresas: Laisvės g. 3, LT-87110 Telšiai, Lietuva</string>
+    <string name="DziugoNamaiTitle">Džiugo namai</string>
+    <string name="DziugoNamaiDescription">Kviečia Jus paskanauti kietojo sūrio DŽIUGAS, pyragų, užtepėlių, tortų ir saldainių su sūriu DŽIUGAS, pasimėgauti vyno taure ar skania kava bei pasigrožėti puikiais Masčio ežero peizažais.</string>
+    <string name="DziugoNamaiTelNr">Tel. nr. +370-444-53748</string>
+    <string name="DziugoNamaiAddres">Adresas: Respublikos st. 49 – 7, Telšiai</string>
+    <string name="ElGrecoTitle">El Greco</string>
+    <string name="ElGrecoDescription">Tikro graiko vadovaujama kavinė kviečia užeiti ir paragauti originalių graikiškų patiekalų, kurių kitur Lietuvoje nerasite, tik Graikijoje.</string>
+    <string name="ElGrecoTelNr">Tel. nr. (8-630) 79424</string>
+    <string name="ElGrecoAddres">Adresas: Dariaus ir Girėno g. 18, Tauragė 72252</string>
+    <string name="PalmaTitle">Palma</string>
+    <string name="PalmaDescription">Viešbutis „Palma“ įsikūręs ramioje žaliuojančioje vietoje, senojoje Mažeikių dalyje. Iš tamsios medienos baldais apstatytų klasikinio interjero numerių atsiveria vaizdai į miestą. Apgyvendinimo įstaigoje taip pat įrengta sauna.
+&#xA;&#xA;Visuose numeriuose yra vonios kambariai su dušais bei nemokamais asmens higienos reikmenimis, palydovinės televizijos kanalus rodantys plokščiaekraniai televizoriai ir mini barai, veikia nemokamas belaidis internetas.
+&#xA;&#xA;Kviečiame praleisti vakarą jaukioje restorano Palma aplinkoje. Malonus aptarnavimas, subtilus interjeras puikiai tiks tiek individualia proga, tiek verslo susitikimams. Restorano virtuvėje patiekalai gaminami tik iš aukščiausios kokybės maisto produktų pagal klasikines europietiškos virtuvės tradicijas.</string>
+    <string name="PalmaTelNr">Tel. nr. (8-443) 35355</string>
+    <string name="PalmaAddres">Adresas: Respublikos g. 27, Mažeikiai 89224</string>
+    <string name="GlobeParkTitle">Globepark</string>
+    <string name="GlobeParkDescription">Apsistoję Antšunijuose įsikūrusioje kaimo turizmo sodyboje „Globepark“ galėsite leisti laiką sode ir naudotis lauko kepsnine bei nemokamu belaidžiu internetu.
+&#xA;&#xA;Visuose numeriuose rasite plokščiaekranius televizorius ir bendrus vonios kambarius su voniomis arba dušais, o kai kuriuose įrengtos terasos ir (arba) kiemeliai, iš kurių atsiveria vaizdas į ežerą. Svečiams suteikiami rankšluosčiai ir patalynės užvalkalai.
+&#xA;&#xA;Sodyboje „Globepark“ taip pat yra sauna.
+&#xA;&#xA;Apylinkėse siūloma žvejoti, leistis į žygius ir užsiimti kita aktyvia veikla. Automobilius nemokamai pasistatysite privačioje aikštelėje.</string>
+    <string name="GlobeParkTelNr">Tel. nr. (8-699) 81002</string>
+    <string name="GlobeParkAddres">Adresas: Antšunijai, Antšunijai 1, Antšunijai 73316</string>
+    <string name="GrafaiteDescription">Ramioje Ginkūnų gyvenvietėje, vos už 5 km nuo Šiaulių centro įsikūrusiame viešbutyje-bare „Grafaitė“ siūlomi numeriai, kuriuose yra palydovinius kanalus rodantys televizoriai bei veikia nemokamas belaidis internetas. Viešbutyje taip pat įrengtas vidaus baseinas.
+&#xA;&#xA; Šiltais gelsvais atspalviais apipavidalintuose šildomuose „Grafaitės“ numeriuose yra telefonai ir vonios kambariai. Kai kuriuose numeriuose rasite svetainės zonas.
+&#xA;&#xA; Restorane patiekiami tradiciniai lietuviški ir europietiški valgiai. Vasarą svečiai gali pavalgyti lauko kavinėje.</string>
+    <string name="GrafaiteTitle">Grafaitė</string>
+    <string name="GrafaiteTelNR">Tel. nr. (8-41) 589120</string>
+    <string name="GrafaiteAddres">Adresas: Aušros g. 1, Šiauliai 81493</string>
+    <string name="GrillBarTitle">Grill Baras</string>
+    <string name="GrillBarDescription">Išskirtinė vieta Plungėje mėgstantiems skanius griliaus patiekalus. Grill baras patiks net išrankiausiam svečiui.</string>
+    <string name="GrillBarTelNR">Tel. nr. (8-606) 18808</string>
+    <string name="GrillBarAddres">Adresas: Gandingos g. 8B, Plungė 90131</string>
+    <string name="SinchronasTitle">Svečių namai Sinchronas</string>
+    <string name="SinchronasDescription">Numeriuose yra oro kondicionieriai ir veikia nemokamas belaidis internetas. Numeriuose taip pat rasite palydovinius kanalus rodančius plokščiaekranius televizorius ir vonios kambarius su dušo kabinomis bei plaukų džiovintuvais.&#xA;&#xA; Trečiame aukšte įrengtoje kavinėje siūloma pasistiprinti pusryčiais ir pasigrožėti pro langus nuo grindų iki lubų atsiveriančiais vaizdais.&#xA;&#xA; Svečių namuose „Sinchronas“ taip pat yra turkiška garų pirtis ir sūkurinė vonia.&#xA;&#xA;Telšių centre įsikūrusi kavinė siūlo jums aukščiausios kokybės maistą bei aptarnavimą.</string>
+    <string name="SinchronasAddres">Adresas: Turgaus a. 24, Telšiai 87122</string>
+    <string name="SinchronasTelNr">Tel. nr. (8-655) 50313</string>
+    <string name="HoaChiDescription">HAO CHI (liet. „skanaus“) - kinų maisto ir sušių restoranas Mažeikiuose, siūlantis sušių bei kiniško maisto įvairovę.</string>
+    <string name="HoaChiTitle">Hao Chi</string>
+    <string name="HoaChiTelnr">Tel. nr. (8-658) 87711</string>
+    <string name="HoaChiTelAddres">Adresas: Viekšnių g. 20D, Mažeikiai 89235</string>
+    <string name="TaurageHesburgerTitle">Hesburger</string>
+    <string name="TaurageHesburgerDescription">Skubate, neturite laiko laukti patiekalo restorane, užsukite į „Hesburger“: greiti pusryčiai, mesainiai, sūrainiai, salotos, ledai, kava.</string>
+    <string name="TaurageHesburgerTelNr">Tel. nr. +37061342169</string>
+    <string name="TaurageHesburgerAddres">Adresas: Dariaus ir Girėno g. 65A, Tauragė 72201</string>
+    <string name="HotelPortoDescription">Viešbutis „Porto“ įsikūręs Plungėje, šalia Šiauliai–Palanga ir Tauragė–Mažeikiai kelių. Svečiai kviečiami nemokamai naudotis internetu ir automobilių stovėjimo aikštele bei apsilankyti viešbučio restorane. Viešnagės metu galėsite pažaisti boulingą, atsipalaiduoti saunoje, turkiškoje pirtyje ar sūkurinėje vonioje.vik
+&#xA;&#xA;Numeriuose rasite išmaniuosius televizorius.
+&#xA;&#xA;Plungės autobusų ir geležinkelio stotys yra už 2 km. Viešbutyje teikiamos automobilių nuomos bei nemokamo taksi iškvietimo paslaugos.
+&#xA;&#xA;Platelių ežeras ir Žemaitijos nacionalinis parkas yra vos už 10 km, o Palangos oro uostas ir Klaipėda – maždaug už 60 km. </string>
+<string name="HotelPortoTitle">Hotel Porto</string>
+    <string name="HotelPortoTelNR">Tel. nr. (8-674) 22255</string>
+    <string name="HotelPortoAddres">Adresas: Pramogų g. Truikiai Vlg. s raj. Plungė, 90110</string>
+    <string name="HotelSiauliaiTitle">Hotel Šiauliai</string>
+    <string name="HotelSiauliaiTelNR">Tel. nr. (8-41) 437333</string>
+    <string name="HotelSiauliaiAddres">Adresas: Draugystės pr. 25, Šiauliai 76289</string>
+    <string name="HotelSiauliaiDescription">Ši apgyvendinimo įstaiga yra 11 min. kelio pėsčiomis nuo paplūdimio. Šis viešbutis įsikūręs Šiaulių centre, patogiausioje vietoje apsistoti lankantis mieste. Netoli apgyvendinimo įstaigos rasite geležinkelio bei autobusų stotis ir svarbiausias kultūros įstaigas bei bankus.
+&#xA;&#xA;Pro viešbučio numerių langus atsiveria įspūdinga miesto panorama su Prisikėlimo aikšte, renesansinės architektūros katedra ir Talšos ežeru. Be to, priešais viešbutį yra gražus fontanas su skulptūra „Paukščiai“.</string>
+    <string name="JanciauskienesTitle">Jančauskienės kavinė</string>
+    <string name="JanciauskienesDescription">Jančauskienės kavinė įsikūrusi vienoje Telšių senamiesčio gatvių. Čia Jūs skaniai papietausite, pasigrožėsite Telšių senamiesčio panorama, virtuvės šefo išmonė Jus maloniai nustebins.</string>
+    <string name="JanciauskienesTelNR">Tel. nr. (8-444) 74898</string>
+    <string name="JanciauskienesAddres">Adresas: Respublikos g. 20, Telšiai 87334</string>
+    <string name="JonziedisTitle">Jonžiedis</string>
+    <string name="JonziedisDescription">Įsikūręs unikalioje Telšių miesto aplinkoje, atokiau nuo centro šurmulio. Uždarame kieme, liepų paunksmėje, lankytojams puiki vieta atsipūsti ir nors trumpam užmiršti kasdienius rūpesčius. Kiemas su lauko staliukais (30 vietų) ir skėčiais, taip pat veikiančiu fontanėliu. Atskira patalpa alaus barui-šašlykinei (12 vietų). Joje malkomis kūrenamas židinys.</string>
+    <string name="JonziedisAddres">Adresas: Pramonės g. 19, Telšiai 87101</string>
+    <string name="JonziedisTelNR">Tel. nr. (8-615) 56562</string>
+    <string name="JuonePastuogeTitle">Juone pastuogė</string>
+    <string name="JuonePastuogeDescription">Išalkote? Pasiilgote jaukių vakarų? Norite pasiklausyti gyvos muzikos? O gal pabodo miesto šurmulys? Kavinė - smuklė „Juonė pastuogė“ - atgaiva skrandžiui, kojoms ir sielai!!!Tai tikra vienkiemio idilija Šiaulių miesto viduryje, kur vakarais skamba gyva muzika.</string>
+    <string name="JuonePastuogeTelNR">Tel. nr. (8-41) 524926</string>
+    <string name="JuonePastuogeAddres">Adresas: Aušros al. 31, Šiauliai 76300</string>
+    <string name="emaitijos_herbas">Žemaitijos Herbas</string>
+    <string name="Dazasvydis">Dažasvydis</string>
+    <string name="DazasvydisKretingaTelNR">Tel. nr.(8-644) 00072</string>
+    <string name="DazasvydisKretingaAddres">Adresas: Mėguvos g. 3, Kretinga</string>
+    <string name="AerodromasKretingaTelNr">Tel. nr. +370 445 47 441</string>
+    <string name="AerodromasKretingaAddres">Adresas: Dauginčių k., Kretingos r.</string>
+    <string name="KapartmentsTitle">Krista Apartments</string>
+    <string name="KapartmentsDescription">Krista Apartments“ įsikūrę Plungėje, 49 km. nuo Palangos ir 50 km. nuo Šventosios. Čia apsistoję galėsite nemokamai naudotis belaidžiu internetu.
+&#xA;&#xA;Apartamentuose yra virtuvė su orkaite ir šaldytuvu. Svečiams suteikiami rankšluosčiai ir patalynės užvalkalai. Vonios kambaryje įrengtas dušas.
+&#xA;&#xA;Iki tarptautinio Palangos oro uosto – 48 km.</string>
+    <string name="KapartmentsTelNr">Tel. nr. (8-600) 10310</string>
+    <string name="KapartmentsAddres">Adresas: S. Nėries g. 20-16, Plungė</string>
+    <string name="KretingosZirgynasTitle">Žirgynas</string>
+    <string name="KretingosZirgynasTelNR">Tel. nr. +370 690 40538.</string>
+    <string name="KretingosZirgynasAddres">Adresas: Žibininkų k., Kretingos raj.</string>
+    <string name="Laisves30Title">Laisvės 30</string>
+    <string name="Lasives30Description">Laisvės 30 – seniausias restoranas Mažeikiuose, įsikūręs viešbučio pirmajame aukšte. Profesionalus barmenas, puikus maistas ir geros kainos - visa tai rasite Laisvės 30.&#xA;  Taip pat yra teikiamos apgyvendi - nimo paslaugos. Visuose šviesiuose klasikiniu stiliumi įrengtuose numeriuose yra televizoriai, šaldytuvai, elektriniai virduliai ir vonios kambariai su dušais. Kai kuriuose numeriuose rasite oro kondicionierius. Laisvės 30 galima užsisakyti pusryčius.</string>
+    <string name="Laisves30TelNr">Tel. nr. (8-443) 27054</string>
+    <string name="Laisves30Addres">Adresas: Laisvės g. 30, Mažeikiai 89223</string>
+    <string name="rightarrow">RightArrow</string>
+    <string name="arrowleft">ArrowLeft</string>
+    <string name="galeryimage">GaleryImage</string>
+    <string name="LedoArenaMazeikiaiTitle">Ledo Arena</string>
+    <string name="LedoArenaMazeikiaiTelNR">Tel. nr. (8-688) 26733</string>
+    <string name="LedoArenaMazeikiaiAddres">Adresas: Senkelio g. 3, Mažeikiai 89126</string>
+    <string name="LisitejaTitle">Lisitėja</string>
+    <string name="LisitejaDescription">Jauki itališko stiliaus aplinka, gardūs patiekalai net išrankiausiam skoniui.  Rengiami šventiniai pobūviai, veikia nemokamas internetas, nuomojama konferencijų salė.</string>
+    <string name="LisitejaTelNR">Tel. nr. (8-443) 60159</string>
+    <string name="LisitejaAddres">Adresas: Plungės g. 14, Telšiai 87317</string>
+    <string name="MainActivityMarsrutai">Maršrutai →</string>
+    <string name="MainActivityPramogos">Pramogos →</string>
+    <string name="MainActivityNakvynes">Nakvynės →</string>
+    <string name="MainActivityLankytinosVietos">Lankytinos vietos →</string>
+    <string name="MainActivityZemaitijosGidas">Žemaitijos gidas →</string>
+    <string name="MeskosGuolisTitle">Meškos Guolis</string>
+    <string name="MeskosGuolisDescription">„Meškos guolis“ - tai apartamentai Telšiuose. Viešnagės metu galėsite nemokamai naudotis visose patalpose veikiančiu belaidžiu internetu.
+&#xA;&#xA;Apartamentuose yra valgomojo stalas, vonios kambarys su vonia ir virtuvė, kurioje rasite orkaitę bei mikrobangų krosnelę. Rankšluosčiai ir patalynės užvalkalai suteikiami.
+&#xA;&#xA;Palangos tarptautinis oro uostas įsikūręs už 72 km.</string>
+    <string name="MeskosGuolisTelNR">Tel. nr. (8-685) 44541</string>
+    <string name="MeskosGuolisAddres">Adresas: 19 Kęstučio gatvė 36, Telšiai 87121</string>
+    <string name="PirmasKadrasTitle">Pirmas Kadras</string>
+    <string name="PirmasKadrasTelNR">Tel. nr. +370 68440411</string>
+    <string name="PirmasKadrasAddres">Adresas: Vydūno Gatvė, 89225 Mažeikiai</string>
+    <string name="MyThaiTitle">My Thai</string>
+    <string name="MyThaiDescription">Leistis į nuostabių aromatų ir skonių lydimą kulinarinę kelionę Jus kviečia tailandietiško maisto restoranas My Thai, kuriame klientų džiaugsmui patiekiama net 40 skirtingų tailandietiškų patiekalų. My Thai garantuoja ne tik šventę Jūsų pilvukams, bet ir jaukią šilumą, gundančius aromatus ir neišdildomus pojūčius.</string>
+    <string name="MyThaiTelNr">Tel. nr. (8-600) 03056</string>
+    <string name="MyThaiAddres">Adresas: P. Višinskio g. 41, Šiauliai 76351</string>
+    <string name="NGapartemntTitle">NG Apartments</string>
+    <string name="NGapartemntTelNr">Tel. nr. Nepateiktas</string>
+    <string name="NGapartemntAddres">Adresas: Vytauto str. 5, LT-90123 Plungė, Lietuva</string>
+    <string name="NGapartemntDescription">Plungėje įrengtuose apartamentuose „NG“ veikia nemokamas belaidis internetas. Čia laukiami svečiai su naminiais gyvūnais.
+&#xA;&#xA;Apartamentuose rasite svetainės erdvę, valgomojo zoną, virtuvėlę su mikrobangų krosnele, šaldytuvu ir virduliu bei rankšluosčius.
+&#xA;&#xA;Nuo apartametų „NG“: Klaipėda - 50 km, Palangos tarptautinis oro uostas - 47 km,  Palanga - 49 km. "</string>
+    <string name="SenojiQrtaTitle">Senoji Kvorta</string>
+    <string name="SenojiQrtaDescription">Senoji Kvorta atgimė kaip jaukus restoranas su puikiu vyno bei kokteilių baru. Restoranas įsikūręs pačioje miesto širdyje.</string>
+    <string name="SenojiQrtaTelNr">Tel. nr. (8-604) 52502</string>
+    <string name="SenojiQrtaAddres">Adresas: Respublikos g. 4, Telšiai 87130</string>
+    <string name="JKumpikeviciausTitle">J. Kumpikevičiaus</string>
+    <string name="JKumpikeviciausTelNr">Tel. nr. +370 614 74329; +370 686 70 374</string>
+    <string name="JKumpikeviciausAddres">Adresas: Viešetės g. 13, Šerkšnėnai 89366</string>
+    <string name="PasGrafaTitle">Pas grafą</string>
+    <string name="PasGrafaDescription">Kavinė „Pas grafą“ – tai skanus maistas, daugiau kaip per dvidešimt metų susiformavusios klientų aptarnavimo tradicijos ir unikali aplinka. Gaivinanti vėsa net pačiomis karščiausiomis vasaros dienomis, jaukus žiedų ir žalumos prieglobstis patį viduržiemį, nes kavinė įsikūrusi vieninteliame žiemos sode Lietuvoje.</string>
+    <string name="PasGrafaTelNr">Tel. nr. (8-445) 51366</string>
+    <string name="PasGrafaaddres">Adresas: Vilniaus g. 20, Kretinga 97104</string>
+    <string name="PasNerijuTitle">Pas Nerijų</string>
+    <string name="PasNerijuDescription">Nakvynės namai „Pas Nerijų“ įsikūrę ramioje vietoje, už 800 metrų nuo miesto centro. Svečiai kviečiami apsistoti kambariuose, kuriuose veikia nemokamas belaidis internetas.&#xA;&#xA; Visuose „Pas Nerijų“ numeriuose yra kabelinės televizijos kanalus rodantys plokščiaekraniai televizoriai ir vonios kambariai su dušais.&#xA;&#xA;Nakvynės namuose pastatytas biliardo stalas, teikiamos aptarnavimo kambariuose paslaugos ir ruošiami pietų paketai. Pageidaujantiems svečiams už papildomą mokestį organizuojami pervežimai į ir iš oro uosto. &#xA;&#xA;Pusryčiai patiekiami kavinėje, papietauti galite jaukiame nedideliame restorane, pasivaišinti gėrimais bare.</string>
+    <string name="PasNerijuTelNR">Tel. nr. (8-440) 79150</string>
+    <string name="PasNerijuaddres">Adresas: Vaižganto g. 6, Skuodas 98113</string>
+    <string name="PasStefaTitle">Pas Stefą</string>
+    <string name="PasStefaTelNR">Tel. nr. (8-687) 15038</string>
+    <string name="PasStefaAddres">Adresas: Respublikos g. 49, Telšiai 87130</string>
+    <string name="PasStefaDescription">Telšių centre, už 260 metrų nuo Masčio ežero įsikūrusiuose svečių namuose „Pas Stefą“ siūloma apsistoti numeriuose, kuriuose veikia nemokamas belaidis internetas ir naudotis nuosava nemokama automobilių stovėjimo aikštele.
+&#xA;&#xA; Klasikiniuose, šviesiomis ir šiltomis spalvomis išdažytuose numeriuose yra kabelinės televizijos kanalus rodantys televizoriai bei vonios kambariai, kuriuose rasite dušus, nemokamus rankšluosčius ir nemokamus higienos reikmenis.
+&#xA;&#xA; Svečių namuose kasdien patiekiami pusryčiai, restorane ruošiami lietuviški valgiai. Baras dekoruotas rankų darbo kalvystės dirbiniais. Registratūra dirba visą parą.</string>
+    <string name="boulingas">Boulingas</string>
+    <string name="PlungeBoulingasDescription">Konferencijų ir laisvalaikio centras Porto</string>
+    <string name="PlungeBoulingasAddres">Adresas: Pramogų g. 2 Truikiai Vlg. s raj. Plungė, Plungė 90110</string>
+    <string name="PlungeBoulingasTelNR">Tel. nr. (8-611) 50200</string>
+    <string name="PekinasTitle">Pekinas</string>
+    <string name="PekinasDescription">Kinų patiekalai - tai rytų menas, išreiškiantis kinų tautos progresą, kultūrą ir charakterį.Visus kviečiame paragauti skaniausių patiekalų restorane „Pekinas“.</string>
+    <string name="PekinasTelNr">Tel. nr. (8-443)50005</string>
+    <string name="PekinasAddres">Adresas: Žemaitijos g. 47, Mažeikiai 89132</string>
+    <string name="Picasso">Picasso</string>
+    <string name="PicassoDescription">Jauki kavinė, skanus maistas, puikus aptarnavimas, tikros Itališkos picos bei žemos kainos tiesiog maloniai stebina.</string>
+    <string name="PicassoTelNr">Tel. nr. (8-443) 27335</string>
+    <string name="PicassoAddres">Adresas: Laisvės g. 26, Mažeikiai 89223</string>
+    <string name="GaleraTelNr">Tel. nr. (8-448) 71487</string>
+    <string name="GaleraAddres">Adresas: Stoties g. 46, Plungė 90115</string>
+    <string name="GaleraTitle">Galera</string>
+    <string name="PlungeBildukasTelNR">Tel. nr. (8-448) 51451</string>
+    <string name="PlungesBildukasAddres">Dariaus ir Girėno g. 2A, Plungė 90167</string>
+    <string name="CentrasPlungeTitle">Centras</string>
+    <string name="CentrasPlungeTelNR">Tel. nr. (8-615) 41836</string>
+    <string name="CentrasPlungeAddres">Adresas: Senamiesčio a. 3, Plungė 90162</string>
+    <string name="baseinai">Baseinai</string>
+    <string name="MSportoMokykla">Mažeikiu sporto mokykla</string>
+    <string name="MsportoMokyklaTelNr">Tel. nr. (8-443) 90060</string>
+    <string name="MsportoMokyklaAddres">Adresas: Pavenčių g. 15, Mažeikiai 89184</string>
+    <string name="SpaSaurida">SPA Saurida</string>
+    <string name="SpaSauridaTelNr">Tel. nr. (8-607) 86184</string>
+    <string name="SpaSauridaAddres">Adresas: Naftininkų g. 9, Mažeikiai 89239</string>
+    <string name="PusynoNamaiTitle">Pušyno namai</string>
+    <string name="PusynoNamaiTelNr">Tel. nr. +370 615 99 404</string>
+    <string name="PusynoNamaiAddres">Adresas: Sedos g. 3, Mažeikiai 89233</string>
+    <string name="AirovitaJavaAddres">J. Basanavičiaus g. 93, Kretinga 97125</string>
+    <string name="AntKalnoAddres">Kalno g. 18, Telšiai 87133</string>
+    <string name="mapsLink">http://maps.google.co.in/maps?q=</string>
+    <string name="AntKalnoJavaTelnr">(8-444) 76016</string>
+    <string name="BaseinasPortoTitle">Porto</string>
+    <string name="BaseinasPortoTelNr">Tel. nr. +370 674 22255</string>
+    <string name="BaseinasPortoAddres">Adresas: Pramogų g. 2, Truikių k., Plungės r.</string>
+    <string name="PlungesPirtisTitle">Plungės miesto pirtis</string>
+    <string name="PlungesPirtisTelNr">Tel. nr. +370 655 77666</string>
+    <string name="PlungesPirtisAddres">Adresas: I. Končiaus g. 3, Plungė</string>
+    <string name="kubilasPlungeTitle">Kubilas</string>
+    <string name="kubilasPlungeTelNr">Tel. nr. +370 620 26033</string>
+    <string name="kubilasPlungeAddres">Adresas: Mardosų k., Nausodžio sen., Plungės r.</string>
+    <string name="SGKlinikaTitle">SG Klinika</string>
+    <string name="SGKlinikaTelNr">Tel. nr. +370 448 55098, +370 615 34 806</string>
+    <string name="SGKlinikaAddres">Adresas: Telšių g. 13, Plungė</string>
+    <string name="SiliuSveciuNamaiTitle">Šilų svečių namai</string>
+    <string name="SiliuSveciuNamaiTelNr">Tel. nr. +370 448 71181, +370 682 67 065</string>
+    <string name="SiliuSveciuNamaiAddres">Adresas: Rietavo g. 16, Plungė</string>
+    <string name="PlungeBaseinasTitle">Baseinas</string>
+    <string name="PlungeBaseinasTelNR">Tel. nr. +370 698 10312, +370 614 74284</string>
+    <string name="PlungeBaseinasAddres">Adresas: Plokštinės g. 20, Paplatelės km., Plungės r.</string>
+    <string name="ToOpenSuggested">Spustelkite trumpiau ir atsidarys rekomenduojamų restoranų sąrašas</string>
+    <string name="LinksmybesGoogleUrl"><![CDATA[https://drive.google.com/open?id=18xF22QihQptDqaR9S8-Kg8zg69M&usp=sharing]]></string>
+    <string name="LankytinosVietosGoogleMapLayer"><![CDATA[https://drive.google.com/open?id=1ZmpYrdIURvTxtdYLg8dbuBFQaS-_Jjif&usp=sharing]]></string>
+    <string name="BookingMap">https://www.booking-map.com/hotel-pusyno-namai-4-tirksliai-lithuania/</string>
+    <string name="RestoranaiGoogleMapsLayer"><![CDATA[https://drive.google.com/open?id=1yIMGQtyL5eWE2JJiZpbi-ZQOAjA&usp=sharing]]></string>
+    <string name="SpauskiteIrAtsidarys">Spustelkite ilgiau ir atsidarys žemėlapis, kuriame sužymėti objektai</string>
+    <string name="KELINTOSUMA">KELINTOSUMA</string>
+    <string name="ARTAIMOKYMAI">ARTAIMOKYMAI</string>
+    <string name="BraukiameISona">Braukiame į šoną norėdami pamatyti kitų miestų maitinimo įstaigas</string>
+    <string name="ZemaitijosAprasymas">Žemaitija (anksčiau tiesiog Žemaičiai, žem. Žemaitėjė) yra vienas iš Lietuvos etnokultūrinių regionų, taip pat geografinis ir istorinis regionas (ist. vok. Samaiten, lot. Samogitia). Pirmas paminėjimas – 1219 m., kur minimi du žemaičių kunigaikščiai dalyvavę taikos sudaryme tarp Lietuvos ir Voluinės-Galicijos kunigaikštysčių 1215 m. Žemaitijos etnografinis regionas pagal 2003 m. Etninės kultūros globos tarybos patvirtintą žemėlapį[1] apima 15 774 km² plotą. Žemaitijos etninio regiono sostine laikomi Telšiai, nors istoriškai Žemaičių žemės centras visad buvęs Medininkų žemėje, Medininkuose (dabartiniai Varniai). Būtent Medininkų žemė buvo nuolatinis kryžiuočių taikinys – į ten vedė daugelis jų žygių, kai buvo puolami žemaičiai. Medininkuose 1417 m. buvo įkurta ir Žemaičių vyskupija. Kiti svarbūs Žemaitijos centrai buvo Raseiniai, Kražiai ir Šiauliai: šiuose miestuose rinkdavosi Žemaitijos seniūnijos seimeliai. 1441 m. Žemaitija tapo autonomiška LDK sudėtyje. Tais pačiais metais Žemaitijai buvo suteiktas oficialus kunigaikštystės statusas ir ji buvo įtraukta į LDK, o vėliau ir į ATR valdovų titulus.</string>
+    <string name="herbas">Herbas</string>
+    <string name="pavadinimas">Pavadinimas</string>
+    <string name="ZemaitijosMiestai">Tradiciškai, Žemaitijos pavadinimas kildinamas iš lietuvių kalbos žodžio žemas. Pasak daugelio istorikų, Žemaitijos pavadinimas galėjo būti vartojamas kalbant apie žemę esančia už Nemuno ribų. Kita hipotezė teigia, jog jis kilęs iš lietuvių kalbos žodžio žemė, tačiau ji nėra labai populari. Viduramžiais, Žemaitija lotyniškai buvo žinoma bei užrašoma kaip Samaitiæ, Zamaitiae, Zamaytae, Samathae, Samethi; rusėnų šaltiniai mini regioną kaip жемотьская земля (liet. Žemaitijos žemė); iš jo kilo ir lenkiškas regiono pavadinimas Żmudź ir, tikriausiai, vidurio vokiečių aukštaičių Sameiten, Samaythen. Tai nusako senesnę Žemaitijos pavadinimo formą, Žemaičiai. Patys žemaičiai Žemaitiją vadina Žemaitėjė.</string>
+    <string name="ZemaitijosMiestuSpecifikacija">Kražiai – Žemaičių seniūnijos ir Žemaičių kunigaikštystės administracinis centras XV–XVI a., Raseiniai – 11 203 gyv., Žemaičių kunigaikštystės administracinis centras nuo XVI a. 7 dešimtmečio iki kunigaikštystės panaikinimo (1795 m.), taip pat Pietų Žemaitijos etnokultūrinio paregionio centras, Telšiai – 24 295 gyv., Žemaitijos etnokultūrinio regiono centras, apskrities centras, Šiauliai – 105 610 gyv., apskrities centras, Mažeikiai – 35 997 gyv., svarbus naftos perdirbimo pramonės centras, Tauragė – 23 513 gyv., apskrities centras, Plungė – 20 041 gyv. Kretinga – 19 101 gyv. Palanga – 15 732 gyv. Jurbarkas – 11 232 gyv. Naujoji Akmenė – 9 300 gyv. Skuodas – 6 513 gyv., rajono savivaldybės centras. Aktyvus Žemaitijos kultūros centras: žemaičių teatro veikla, žemaitiškų knygų leidyba. Savivaldybės posėdžių metu kalbama žemaitiškai. Šilalė – 5 492 gyv. Rietavas – 3 824 gyv., savivaldybės centras</string>
+    <string name="altinis">Šaltinis</string>
+    <string name="emaitija">Žemaitija</string>
+    <string name="svarbiausios_gyvenviet_s">Svarbiausios gyvenvietės</string>
+    <string name="tel">tel</string>
+    <string name="VienaragioMalunasAddresJava">Kretinga, Birutės g.19/Malūno takas 1</string>
+    <string name="VienaragioMalunasJavaUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=MP_8Wd3nE4Ouao7hgZAG&q=Vienaragio+mal%C5%ABnas+Kretinga&oq=Vienaragio+mal%C5%ABnas+Kretinga&gs_l=psy-ab.3...4047.8785.0.9030.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.IEs1f3_dWtU&gfe_rd=cr&dcr=0]]></string>
+    <string name="VienaragioMalunasTelNrJava">(8-615) 98778</string>
+    <string name="VienaragioMalunasTitle">Vienaragio malūnas</string>
+    <string name="SmagratisTitle">Smagratis</string>
+    <string name="UzsukiteKretingoje">Užsukite Kretingoje</string>
+    <string name="KretingosRestoranaiUrl"><![CDATA[https://www.google.lt/search?rlz=1C1CHBF_enLT747LT747&ei=sMb8WfCyOqiC6QSunK_wDg&q=Restoranai+Kretingoje&oq=Restoranai+Kretingoje&gs_l=psy-ab.3..0j0i22i30k1l3.95439.97930.0.98090.10.10.0.0.0.0.96.655.10.10.0....0...1.1.64.psy-ab..0.10.655....0.v7ToVOZZik4]]></string>
+    <string name="PasGrafaAddresJava">Vilniaus g. 20, Kretinga 97104</string>
+    <string name="PasGrafaUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=uf78WY6MNYKxabLHnrAF&q=Pas+Graf%C4%85+Kretinga&oq=Pas+Graf%C4%85+Kretinga&gs_l=psy-ab.3...22155.37139.0.37194.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.z9dUoK1O0fA&gfe_rd=cr&dcr=0]]></string>
+    <string name="PasGrafaTelNRJava">(8-445) 51366</string>
+    <string name="SmagratisTelNrJava">(8-657) 99157</string>
+    <string name="SmagratisAddresJava">Žemaitės al. 31, Kretinga 97106</string>
+    <string name="SmagratisUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=4P78Wb-mM4noavrLtxg&q=Smagratis+Kretinga&oq=Smagratis+Kretinga&gs_l=psy-ab.3...52694.54157.0.54331.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.65v08vTvyro&gfe_rd=cr&dcr=0]]></string>
+    <string name="LankytinosVietosUrlJava"><![CDATA[https://www.google.lt/search?rlz=1C1CHBF_enLT747LT747&ei=IMf8WeaFB8fF6QSY15DgBg&q=Restoranai+%C5%BDemaitijoje&oq=Restoranai+%C5%BDemaitijoje&gs_l=psy-ab.3..0i22i30k1.110638.112676.0.112827.11.11.0.0.0.0.88.795.11.11.0....0...1.1.64.psy-ab..0.11.789...0j33i22i29i30k1j33i160k1.0.AidjPtSP-NE]]></string>
+    <string name="DautarųDvaras">Dautarų dvaras</string>
+    <string name="ZemaiciuKalvarija">Žemaičių kalvarija</string>
+    <string name="RenavoDvaras">Renavo dvaras</string>
+    <string name="BirzuvenuDvaras">Biržuvėnų dvaras</string>
+    <string name="LenkimuSvOnosBaznycia">Lenkimų Šv. Onos bažnyčia</string>
+    <string name="KretingosMalunas">Kretingos vandens malūnas</string>
+    <string name="KretingoViespaties">Kretingos Viešpaties apreiškimo Švč. Mergelei Marijai parapija</string>
+    <string name="KretingosMuziejus">Kretingos muziejus</string>
+    <string name="VentosApzvalgosBokstas">Ventos regioninio parko apžvalgos bokštas</string>
+    <string name="ZemaitijosKaimoBuities">Žemaitijos kaimo buities muziejus</string>
+    <string name="SvMergelsMarijos">Šv. Mergelės Marijos ėmimo į dangų bažnyčia</string>
+    <string name="GurduOzo">Gardų Ozo pėsčiūjų takas</string>
+    <string name="PlungesDvaras">Plungės dvaras</string>
+    <string name="AntKalnoTelNrJava"><![CDATA[https://www.google.com/search?client=firefox-b&q=Ant+kalno+Tel%C5%A1iuose&spell=1&sa=X&ved=0ahUKEwiczdPSxqPXAhVGuRoKHRvMBqIQBQgjKAA&biw=1920&bih=971&gfe_rd=cr&dcr=0&ei=1_r8WdqyEIqAtAH_zKDYDA]]></string>
+    <string name="ArkosAddresJava">Gamyklos g. 41, Mažeikiai 89110</string>
+    <string name="ArkosTelNrJava">8-646-02057</string>
+    <string name="ArkosUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=mvT8WYSoBcmC6QTvk7iQDQ&q=Arka+Ma%C5%BEeikiuose&oq=Arka+Ma%C5%BEeikiuose&gs_l=psy-ab.3..0i71k1l4.4133.4382.0.4568.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.8R18cj50wn4&gfe_rd=cr&dcr=0]]></string>
+    <string name="CanCanAddresJava">Žemaitijos g. 20b-5, Mažeikiai 89151</string>
+    <string name="CanCanUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=GPn8WabaOcS5afOhk-AJ&q=Can+can+Ma%C5%BEeikiuose&oq=Can+can+Ma%C5%BEeikiuose&gs_l=psy-ab.3...4148.6569.0.6923.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.a9lDbvpwp9M&gfe_rd=cr&dcr=0]]></string>
+    <string name="CharlieAddresJava">Laisvės g. 56, Mažeikiai 89223</string>
+    <string name="CharlieUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=Ifn8Wf7qDILca8nPl9gJ&q=Charlie+Ma%C5%BEeikiuose&oq=Charlie+Ma%C5%BEeikiuose&gs_l=psy-ab.12...24561.24561.0.25787.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0....0.s_lVThhI-3I&gfe_rd=cr&dcr=0]]></string>
+    <string name="DziugoNamaiAddresJava">Telšiai,Cheese Džiugas House, Telšiai</string>
+    <string name="DziugoNamaiUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=PPn8WfqlKKjO6ASOqq2QCQ&q=D%C5%BEiugo+Namai+Tel%C5%A1iuose&oq=D%C5%BEiugo+Namai+Tel%C5%A1iuose&gs_l=psy-ab.12...170885.189681.0.192740.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.HtxodoowLZY&gfe_rd=cr&dcr=0]]></string>
+    <string name="ElGrecoTelnrJava">(8-630) 79424</string>
+    <string name="ElGrecoAddresJava">Dariaus ir Girėno g. 18, Tauragė 72252</string>
+    <string name="ElGrecoUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=8P38WevROsW2a-jLkVA&q=El+Greco+Taurag%C4%97je&oq=El+Greco+Taurag%C4%97je&gs_l=psy-ab.3..0i71k1l3.14181.14205.0.14253.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.RmoXsZIjYN0&gfe_rd=cr&dcr=0]]></string>
+    <string name="GamaAddresJava">Respublikos g. 27, Mažeikiai 89224</string>
+    <string name="GamaUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=6Pj8WdvQMcffas63i9AC&q=Palma+Ma%C5%BEeikiuose&oq=Palma+Ma%C5%BEeikiuose&gs_l=psy-ab.3...6735.12415.0.12667.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.CaDaidtllq0&gfe_rd=cr&dcr=0]]></string>
+    <string name="GuestHouseAddresJava">Turgaus a. 24, Telšiai 87122</string>
+    <string name="GuestHouseUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=avr8WeKQJMeAafLui4gB&q=Guesthouse+Sinchronas+Tel%C5%A1iuose&oq=Guesthouse+Sinchronas+Tel%C5%A1iuose&gs_l=psy-ab.3...18552.22846.0.23343.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.eLkxmoEebVo&gfe_rd=cr&dcr=0]]></string>
+    <string name="HoaChiAddresJava">Viekšnių g. 20D, Mažeikiai 89235</string>
+    <string name="HoaChiUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=oPT8WenjGMqa6ASmoYOYDA&q=Hao+chi+Ma%C5%BEeikiuose&oq=Hao+chi+Ma%C5%BEeikiuose&gs_l=psy-ab.3...715748.719352.0.719406.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.PumN3pF7LAQ&gfe_rd=cr&dcr=0]]></string>
+    <string name="HesburgerAddresJava">Dariaus ir Girėno g. 65A, Tauragė 72201</string>
+    <string name="HesburgerUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=AP78WfDFI4msa-vDldgD&q=Hesburger+Taurag%C4%97je&oq=Hesburger+Taurag%C4%97je&gs_l=psy-ab.3...12124.14421.0.14492.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.2FnJbqTjRP4&gfe_rd=cr&dcr=0]]></string>
+    <string name="HesburgerTelnrJava">+37061342169</string>
+    <string name="HaoChiTelNrJava">(8-658) 87711</string>
+    <string name="GuestHouseTelNRJava">(8-655) 50313</string>
+    <string name="JancauskienesAddresJava">Respublikos g. 20, Telšiai 87334</string>
+    <string name="JancauskienesUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=Svr8WaS6IpLNaOK_p4gP&q=L.+Jan%C4%8Dauskien%C4%97s+%C4%AFmon%C4%97+Tel%C5%A1iuose&oq=L.+Jan%C4%8Dauskien%C4%97s+%C4%AFmon%C4%97+Tel%C5%A1iuose&gs_l=psy-ab.12...4469.4800.0.5685.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.KJ6PgLZb5_M&gfe_rd=cr&dcr=0]]></string>
+    <string name="JonziedisUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=Bfv8WaiWEoyVaNXIjIgE&q=Jon%C5%BEiedis+Tel%C5%A1iuose&oq=Jon%C5%BEiedis+Tel%C5%A1iuose&gs_l=psy-ab.3...740.1370.0.1915.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.ualbb351Op8&gfe_rd=cr&dcr=0]]></string>
+    <string name="JonziedisAddresJava">Pramonės g. 19, Telšiai 87101</string>
+    <string name="JonZiedisTelNR">(8-615) 56562</string>
+    <string name="Laisves30AddresJava">Laisvės g. 30, Mažeikiai 89223</string>
+    <string name="Laisves30UrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&q=Laisv%C4%97s+30+Ma%C5%BEeikiuose&spell=1&sa=X&ved=0ahUKEwjd3sjFw6PXAhWsFJoKHWtBBz0QvwUIIygA&biw=1920&bih=971&gfe_rd=cr&dcr=0&ei=l_f8Wc7LEsKAtAGKoa7oAw]]></string>
+    <string name="Laisves30TelNRJava">(8-443) 27054</string>
+    <string name="DautaruDvaras">Dautarų dvaras</string>
+    <string name="DautaruDvarasUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b&ei=qv8eWr2VMIvOwAKL54XQDA&q=Dautar%C5%B3+dvaras&oq=Dautar%C5%B3+dvaras&gs_l=psy-ab.12...500.500.0.1286.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.lI4GTyTQ-oM&gfe_rd=cr&dcr=0]]></string>
+    <string name="DautaruDvarasAprasymas1">Kai tą pačią dieną tėvas apie mūsų sužadėtuves papasakojo carui, šis atsakė gerai žinąs mano sužadėtinį ir pasveikino mane su puikiu pasirinkimu.</string>
+    <string name="DautaruDvarasAprasymas2">Po Kalėdų B.I. Bockas oficialiai paprašė mano tėvų mano rankos, jie sutiko ir šia proga vasario 2 d. ta proga įvyko iškilmingos Mišios dalyvaujant giminaičiams iš abiejų pusių.</string>
+    <string name="DautaruDvarasAprasymas3">Per tas aštuonias plaukiojimo dienas mano likimas buvo nuspręstas, ir nors dar nieko nebuvo ištarta, bet būna jausmų, aiškesnių už žodžius, ir sieloje aš galutinai žinojau, kad anksčiau ar vėliau tapsiu vieno iš jachtos „Neva“ karininkų – leitenanto B.I. Bocko žmona.</string>
+    <string name="DautaruDvarasAprasymas4">Po trijų labai įtemptų dienų ir sunkaus darbo (buvo 1905 m.), pareikalavusio iš mano tėvo (carinės Rusijos imperijos vyriausybės vadovo) daug jėgų, jam buvo reikalingas nors trumpas, bet pilnavertis poilsis. Caras pats apie tai pats sumąstė ir pasiūlė jachta „Neva“ paplaukioti po Suomių įlanką. Geresnio poilsio sugalvoti neįmanoma – jūroje, kaip niekur kitur, tėvas atsijungdavo nuo visų tarnybos reikalų, pokalbių, ataskaitų ir popierių – nuo viso milžiniško administracinio aparato, stūmiančio Rusijos imperijos gyvenimą pirmyn.  Buvo nuspręsta, kad kartu su tėčiu plaukiame ir mes visi.</string>
+    <string name="IREIKSME">IREIKSME</string>
+    <string name="SaltojoKaroMuziejusUrlJava"><![CDATA[https://www.google.com/search?client=firefox-b-ab&biw=958&bih=954&ei=YjYDWvnbDYrOwQK1i4XgBw&q=%C5%A0altojo+karo+muziejus&oq=%C5%A0altojo+karo+muziejus&gs_l=psy-ab.12..35i39k1j0i203k1l3j0j0i30k1l5.2050.5303.0.6654.5.3.2.0.0.0.208.606.0j2j1.3.0....0...1.1.64.psy-ab..0.5.721...0i13i30k1j0i13k1.0.qpSnXLO8L24&gfe_rd=cr&dcr=0]]></string>
+    <string name="SaltojoKaroMuziejus">Šaltojo karo muziejus</string>
+    <string name="ZemaitijosKalvarijaAprasymas">Muziejus Žemaitijos nacionaliniame parke, už 24 km į šiaurę nuo Plungės. Įrengtas buvusiame Sovietų Sąjungos balistinių raketų šachtiniame paleidimo komplekse, Plokštinės raketų bazėje. Lankytojus pasitinka sut­var­ky­ta ap­lin­ka, įreng­ta ap­žval­gos aikš­te­lė. Su­mon­tuo­tos vė­di­ni­mo ir drėg­mės su­rin­ki­mo sis­te­mos. Pas­ta­ty­tas ad­mi­nist­ra­ci­nis pa­sta­tas (lan­ky­to­jų cent­ras). Autentiškos įrangos išlikę palyginti nedaug, nes daug kas po sovietų kariškių pasitraukimo buvo nuniokota vandalų. Projekto, kuris įgyvendintas už Europos Sąjungos lėšas, vertė – 6,4 mln. litų.[1]Muziejaus ekspozicijos koncepcijos autorius bei vienas iš jo kūrėjų – fortifikacijos istorijos tyrinėtojas Vladimiras Orlovas. Specialiai šiam muziejui sukurtas dokumentinis filmas „Šaltasis karas – baimės šešėlis“ (rež. Rimas Bružas).[2] Muziejų suprojektavo Lietuvos bendrovė TAEM Architektai, projekto vadovas Aidas Jastremskas.</string>
+    <string name="ZemaiciuKalvarijaUrl"><![CDATA[https://www.google.com/search?q=%C5%BDemai%C4%8Di%C5%B3+kalvarija&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=riYDWoiXLNLi8Afov7CwBA]]></string>
+    <string name="ZemaiciuKalvarijaAprasymas">Miestelis Plungės rajono savivaldybės teritorijoje. Žemaičių Kalvarijos bažnyčia nuo seno garsėja stebuklinga Nukryžiuotojo Jėzaus figūra ir stebuklingu Dievo Motinos su Kūdikiu paveikslu, atvežtu iš Romos (XVII a. vidurys). Labai graži ir įspūdinga Žemaičių kalvarijos katedra taip pat ne ką mažiau įdomios Kryžiaus kelio koplytėlės. Miestelyje kasmet liepos mėnesį vyksta Didieji Žemaičių Kalvarijos atlaidai, pasižymintis žmonių gausa.</string>
+    <string name="RenavoDvarasUrl"><![CDATA[https://www.google.com/search?client=firefox-b&ei=XhQDWrORNdLTwQLri5SIBw&q=Renavo+dvaras&oq=Renavo+dvaras&gs_l=psy-ab.12..0i203k1l10.315640.315640.0.316550.1.1.0.0.0.0.258.258.2-1.1.0....0...1..64.psy-ab..0.1.257....0.iTV9gMg9KiY&gfe_rd=cr&dcr=0]]></string>
+    <string name="RenavoDvarasAddres">Lithuania, Renavas 89403</string>
+    <string name="RenavoDvarasAprasymas">Renavo dvaras – dvaras ir jį juosiantis parkas Mažeikių rajono Sedos seniūnijos Renavo kaime, ant Varduvos upės kranto. Vienas įdomiausių ir geriausiai išlikusių dvaro ansamblių Žemaitijoje.</string>
+    <string name="RenavoDvarasmapUrl"><![CDATA[https://www.google.com/search?client=firefox-b&ei=LxQDWsncCtDRwAK8o6e4DA&q=Bir%C5%BEuv%C4%97n%C5%B3+dvaras&oq=Bir%C5%BEuv%C4%97n%C5%B3+dvaras&gs_l=psy-ab.12..0i19k1l4j0i22i30i19k1l3j38.1570.1637.0.2373.2.2.0.0.0.0.248.248.2-1.1.0....0...1.1.64.psy-ab..1.1.247....0.xuOyyfpHf4o&gfe_rd=cr&dcr=0]]></string>
+    <string name="RenavoDvarasAprasymas1">Tai naujai restauruojamas dvaras ir jis atrodo labai įspūdingai.</string>
+    <string name="BirzuvenuDvarasAddres">Biržuvėnai 88239</string>
+    <string name="BirzuvenuDvarasAprasymas">Biržuvėnų dvaro sodyba (valstybės saugomas kultūros paminklas: unikalus kodas 730) – dvaro sodyba rytinėje Telšių rajono savivaldybės teritorijos dalyje, Biržuvėnuose (Luokės seniūnija), abipus Virvyčios upės. Nuo XIV a. minimas Biržuvėnų karališkasis dvaras, kuris vėliau tapo privačia valda. Jį valdė Žemaičių karuža Jonas Sebastijonas Kenstartas, Pajūrio seniūnas Aleksandras Vaina (po 1637 m.). 1670 m. iš Vladislovo Vainos dvarą įsigijo Tverų seniūnas Mikalojus Gorskis. Ši dvarininkų giminė XVIII–XX a. pradžioje pastatė dvaro sodybą su rūmais, oficinomis, pagalbiniais gyvenamaisiais (kumetynai) ir ūkiniais gamybiniais (arklidė, vežiminė, kalvė, vandens malūnas ir kt.) pastatais, užtvenkė Virvyčios upę, 1909 m. įkūrė kartono fabriką (veikė iki 1938 m.), pastatė lentpjūvę.</string>
+    <string name="LenkimuBaznyciaRul">https://lt.wikipedia.org/wiki/Lenkim%C5%B3_%C5%A0v._Onos_ba%C5%BEny%C4%8Dia</string>
+    <string name="LenkimuBaznyciaAddres">S. Daukanto gatvė 61, Lenkimai 98301</string>
+    <string name="LenkimuBaznyciaAprasymas">Simonas Daukantas nupirko bažnyčiai paveikslų, sumokėjo už galinio altoriaus įrengimą. Bažnyčios šventoriuje 1847 m. palaidota Simono Daukanto motina. Ant jos kapo išlikęs XIX a. 1-osios pusės lietuviškas tekstas (citata pagal dabartines rašybos taisykles):</string>
+    <string name="LenkimuBaznyciaAprasymas1">Lenkimų Šv. Onos bažnyčia stovi Lenkimų miestelyje, 1 km į pietryčius nuo Lietuvos ir Latvijos valstybės sienos ir nuo Šventosios upės. Bažnyčia stačiakampio plano, vienabokštė, su apside. Šventoriaus tvora akmenų mūro. Jame stovi akmenų ir plytų mūro varpinė.</string>
+    <string name="VandensMalunasUrl">http://www.kretingosenciklopedija.lt/lt/straipsniai/kultura/kulturos_paveldas/architekturos_paveldas/malunai/kretingos_dvaro_vandens_malunas/</string>
+    <string name="VandensMalunasAddres">Vilniaus g. 33, Kretinga</string>
+    <string name="VandensMalunasAprasymas">Pastatas dviaukštis, kompaktiško tūrio, ištęsto stačiakampio plano, r. fasadas pirmo, seniausio, aukšto lygyje užpiltas žemėmis keliant Vilniaus g. lygį (buvęs kelias Kretinga–Salantai). Matmenys: plotas 21,7 x 10,45 x 11,34 m. Kretingos malūnas turėjo ir ūkinių pastatų, tačiau jie neišliko.</string>
+    <string name="VandensMalunasAprasymas1">Vyskupo Ignoto Jokūbo Masalskio paskirtas matininkas Pranciškus Jodka 1771 m. sudarė išsamų Kretingos grafystės inventorių su žemių planais ir kt. Jame rašoma, kad dvaro sodyba tebestovėjo prie Dupulčio, ties santaka su Akmena. Prie užtvankos minimas senas vandens malūnas.</string>
+    <string name="VandensMalunasAprasymas2">1672 m. Karloštatą [Kretingą] valdant LDK didikui Kazimierui Jonui Povilui Sapiegai, buvo sudarytas dvaro inventorius, kuris liudija, kad dvarą sudarė sodyba, palivarkas ir dvarui priklausantys kaimai. Sodyba buvo prie Akmenos ir Dupulčio santakos; rūmai, vandens malūnas, kluonas ir kiti pagalbiniai ūkiniai pastatai stovėjo prie tvenkinio. Visi pastatai buvo mediniai.</string>
+    <string name="VandensMalunas">Kretingos vandens malūnas</string>
+    <string name="KretingosViespatsBaznyciaUrl">https://lt.wikipedia.org/wiki/Kretingos_Vie%C5%A1paties_Aprei%C5%A1kimo_%C5%A0v%C4%8D._Mergelei_Marijai_ba%C5%BEny%C4%8Dia</string>
+    <string name="KretingosViespatsBaznyciaAddres">Vilniaus g. 2, Kretinga</string>
+    <string name="KretingosViespatsBaznyciaAprasymas1">Kretingos Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia stovi Kretingoje. Turi gotikos ir renesanso bruožų. Tai yra seniausia išlikusi bažnyčia Žemaitijoje, pastatyta 1617 m. Pirmoji katalikų bažnyčia pastatyta 1602 m. (Kretingsodyje) ir įsteigtas bernardinų vienuolynas. 1610–1617 m. Žemaičių seniūno ir Lietuvos Didžiosios Kunigaikštystės etmono Jono Chodkevičiaus iniciatyva pastatyta nauja mūrinė bažnyčia su vienuolynu.</string>
+    <string name="KretingosViespatsBaznyciaAprasymas">1672 m. bažnyčia atnaujinta ir padidinta. XVIII a. veikė parapinė mokykla (1836 m. pertvarkyta į valdinę). XVIII a. pranciškonai pastatė Šv. Antano garbei skirtą altorių, kurį 1795 m. liepos 22 d. konsekravo žemaičių vyskupas Antanas Domininkas Tiškevičius.</string>
+    <string name="KretingosViespatsBaznycia">Kretingos Viespaties apreiskimo Švč. Mergelei Marijai parapija</string>
+    <string name="KretingosMuziejusUrl">http://www.kretingosmuziejus.lt/</string>
+    <string name="KretingosMuziejusAddres">Vilniaus g. 20, Kretinga 97104</string>
+    <string name="KretingosMuziejusAprasymas">Kretingos dvaro parkas – mišraus stiliaus parkas, užimantis 23 ha plotą. Jam pradžią davė Vilniaus vyskupo Igno Jokūbo Masalskio įkurtas didžiulis vaismedžių sodas. Vėliau dvarą valdę grafai Zubovai šalia jo įkūrė landšaftinio (angliškojo) stiliaus parką, kuris XIX a. pirmoje pusėje minimas tarp penkių gražiausių Telšių apskrities parkų. 1874 metais dvarą varžytinėse įsigijo grafas Juozapas Tiškevičius. Būdamas turtingas, veiklus ir intelektualus žmogus, jis rekonstravo dvaro rūmus, įrengė garsųjį Žiemos sodą (didžiausią Europoje to meto privačioje valdoje) ir 1875 metais pradėjo atnaujinti parka. Parko projektavimas buvo patikėtas dvaro matininkui Šostakui, o želdinius ir gėlynus formavo vengrų kilmės daržininkas, rūmų muzikantas Haidukas, daržininkystės mokslus baigęs Vokietijoje. Pagal parengtus planus buvo pertvarkyta priešais rūmus esanti reprezentacinė parko dalis: suformuoti prancūziško stiliaus parkams būdingi geometrinės formos gėlynai, kuriuos puošė fontanai su skulptūromis, greta jų pasodinti introdukuoti medžiai ir dekoratyviniai krūmai, karpomų mažalapių liepų alėjos, sudariusios arkos pavidalo pavėsingus tunelius. Alėjos jungė parką su vaismedžių sodu. Jų sankirtoje buvo įrengtos gerai apšviestos poilsio aikštelės, takai išgrįsti smulkiais akmenukais arba plūkti iš žvyro. Nuo gatvės parką skyrė Zubovų laikais statyta akmenų siena ir naujai išmūryta plytų tvora. Rytiniame Vasaros sodo pakraštyje vešėjo kaštonų alėjos.</string>
+    <string name="KretingosRumai">Kretingos Tiškevičių rūmai ir muziejus, parkas</string>
+    <string name="VentosRegioninioParkoUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1161&bih=954&ei=bToCWtn0D4Sza6-XudAP&q=Ventos+regioninio+parko+ap%C5%BEvalgos+bok%C5%A1tas+Papil%C4%97&oq=Ventos+regioninio+parko+ap%C5%BEvalgos+bok%C5%A1tas+Papil%C4%97&gs_l=psy-ab.3..33i160k1l2.940.1275.0.1715.2.2.0.0.0.0.138.262.0j2.2.0....0...1.1.64.psy-ab..0.2.262....0.TdcwJ5yAJ2I&gfe_rd=cr&dcr=0]]></string>
+    <string name="VentosRegioninioParkoAprasymas">Ant Ventos upės kranto šį pavasarį iškilo naujas apžvalgos bokštas, iš kurio atsiveria platus vaizdas į Ventos kraštovaizdžio draustinį, Papilės miestą ir piliakalnius, Ventos upės vingius, Jurakalnio geologinę atodangą. Šio 15 m. aukščio bokšto įrengimas – dalis projekto „Saugomų teritorijų tvarkymas (II etapas)“, kuriam įgyvendinti skirta virš 21 mln. eurų ES investicijų ir jau yra pastatyta 13 apžvalgos bokštų visoje Lietuvoje, o dar trys statomi šiuo metu. Iš medžio ir metalo konstrukcijų pagamintas modernus Ventos regioninio parko apžvalgos bokštas savo forma primena gėlės žiedą, todėl natūraliai įsilieja į gamtą. Pasigėrėjus įspūdingais vaizdais iš 15 m. aukščio lankytojai kviečiami pasivaikščioti po Ventos regioninį parką Jurakalnio geologiniu–pažintiniu taku ir apžiūrėti Ventos kairiajame šlaite randamus Juros periodo geologinius sluoksnius. Pažintinis takas taip pat veda iki rašytojo Simono Daukanto memorialinio muziejaus Papilėje.</string>
+    <string name="VentosRegioninioParkoAddres">1011, Papilė 85246</string>
+    <string name="VentosRegioninioParko">Ventos regioninio parko apžvalgos bokštas</string>
+    <string name="SkulpturuParkasUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1161&bih=954&ei=_TgCWrmwEoiHaPj5ssAK&q=Skulpt%C5%ABr%C5%B3+parkas+Plung%C4%97je&oq=Skulpt%C5%ABr%C5%B3+parkas+Plung%C4%97je&gs_l=psy-ab.3...1206.7599.0.7932.12.10.2.0.0.0.235.1977.0j5j5.10.0....0...1.1.64.psy-ab..0.11.1898...0i203k1j0i22i30k1j35i39k1j33i160k1j0i19k1.0.NfMkTFJwFEE&gfe_rd=cr&dcr=0]]></string>
+    <string name="SkulpturuParkasAddres">Plungė 90117</string>
+    <string name="SkulpturuParkas">Skulptūrų parkas</string>
+    <string name="SkulpturuParkasAprasymas">įkurtas viename krantinės gale. Parke radome tiek nuolatines akmens ir metalo skulptūras, tiek laikinas. Graži vieta pasivaikščioti.</string>
+    <string name="ZemaitijosKaimoMuziejusUrl"><![CDATA[https://www.google.com/search?q=%C5%BDemaitijos+kaimo+buities+muziejus&client=firefox-b&source=lnms&sa=X&ved=0ahUKEwj9jZfQsK3XAhVDLMAKHcuZA8EQ_AUICSgA&biw=1161&bih=954&dpr=1&gfe_rd=cr&dcr=0&ei=JiICWqadF8fi8Afv25yADw]]></string>
+    <string name="ZemaitijosKaimoMuziejusAprasymas">1963 m. gegužės 15 d. Kultūros ministerijos pavedimu sudaryta komisija, kuriai buvo patikėta atrinkti trobesius ir kitus eksponatus, skirtus Telšių kaimo buities</string>
+    <string name="ZemaitijosKaimoMuziejusAprasymas1">Muziejaus įkūrimo darbams iš pradžių vadovavo Žemaičių muziejaus \"ALKA\" vyr. mokslinis bendradarbis Petras Snarskis, vėliau Vitas Valatka. Tais metais Telšių kraštotyros muziejaus direktoriumi dirbo Bronius Švėgždavičius.</string>
+    <string name="ZemaitijosKaimoMuziejusAprasymas2">1967 m. gegužės 6 d. Žemaičių buities muziejui paskirtas 15 ha plotas pietvakarinėje Masčio ežero pusėje, būsimo Telšių miesto parko teritorijoje.</string>
+    <string name="ZemaitijosKaimoMuziejusAprasymas3">Žemaitijos kaimo muziejaus įkūrimo planą pradėta realizuoti 1963 m. Muziejininkų, kultūros veikėjų sumanymus tąsyk parėmė Lietuvos Ministrų taryba – 1963  metais Lietuvoje buvo nuŽemaitijos buities muziejuje. Nuotrauka iš muziejaus rinkiniųmatyta sukurti Liaudies buities muziejų (Rumšiškių) prie Kauno marių ir tris regioninius muziejus (Telšiuose, Rokiškyje ir Alytuje).</string>
+    <string name="ZemaitijosKaimoMuziejusAprasymas4">Sumanymas Telšiuose įkurti Žemaitijos kaimo muziejų po atviru dangumi gimė  prieš II-ąjį pasaulinį karą. Tada planuota įsteigti vadinamąjį Oro muziejų. Tada šis sumanymas nebuvo pradėtas įgyvendinti.</string>
+    <string name="SvMergelesEmemoIDanguBaznyciaUrl"><![CDATA[https://www.google.com/search?client=firefox-b&ei=RSECWtr0NOicgAaGtqaQAQ&q=Tel%C5%A1i%C5%B3+%C5%A0ventos+Mergel%C4%97s+Marijos+%C4%96mimo+%C4%AF+Dang%C5%B3+ba%C5%BEny%C4%8Dia&oq=Tel%C5%A1i%C5%B3+%C5%A0ventos+Mergel%C4%97s+Marijos+%C4%96mimo+%C4%AF+Dang%C5%B3+ba%C5%BEny%C4%8Dia&gs_l=psy-ab.3..0i22i30k1j38.8260.8687.0.8918.2.2.0.0.0.0.223.431.2-2.2.0....0...1.1.64.psy-ab..0.2.430....0.9UnLg0Yskeg&gfe_rd=cr&dcr=0]]></string>
+    <string name="SvMergelesEmemoIDanguBaznyciaAddres">Telšių Šventos Mergelės Marijos Ėmimo į Dangų bažnyčia (Telšių Mažoji bažnytėlė)</string>
+    <string name="SvMergelesEmemoIDanguBaznycia">Šv. Mergelės Marijos ėmimo į dangų bažnyčia</string>
+    <string name="SvMergelesEmemoIDanguBaznyciaAprasymas">Kalvos viršūnėje baltuojanti daili Šv. Mergelės Marijos ėmimo į dangų bažnyčia. Manoma, kad šioje vietoje pirmoji bažnyčia buvo pastatyta maždaug 1536 m. Būtinai užkopkite prie jos, nes nuo kalvos atsiveria graži panorama į miegamuosius Telšių rajonus bei Masčio ežerą.</string>
+    <string name="GarduOzoAddres">Gardų ozas 90444</string>
+    <string name="GarduOzo">Gardų Ozo Pėsčiūjų takas</string>
+    <string name="GarduOzoAprasymas">Ozas yra ilga – net 3,5 km ilgio – siaura kalva, sudaryta daugiausiai iš smėlio ir žvyro. Ji susidarė iš nuogulų, kurios klostėsi ledyno viduje, tirpstant vandeniui prieš 12-13 tūkstančių metų. Gardų ozo aukštis nuo papėdžių iki aukščiausių gūbrio keterų vietomis siekia 10–15 metrų. Štai tokiame oze pažintinis takas ir yra įrengtas.</string>
+    <string name="GarduOzoUrl"><![CDATA[https://www.google.com/search?q=Gard%C5%B3+Ozo+P%C4%97s%C4%8Di%C5%ABj%C5%B3+takas&client=firefox-b&source=lnms&sa=X&ved=0ahUKEwitzejkra3XAhVKD8AKHUvGDqgQ_AUICSgA&biw=1161&bih=954&dpr=1&gfe_rd=cr&dcr=0&ei=cB8CWoi7Hcfi8Afv25yADw]]></string>
+    <string name="EnergetiniaiLabirintai">Energetiniai labirintai</string>
+    <string name="EnergetiniaiLabirintaiAprasymas">Plungės rajone įkurti energetiniai labirintai nėra tie tradiciniai, mums įprasti klaidieji labirintai, kuriais einant tarp daugelio kelių reikia rasti tą vienintelį teisingą, atvesiantį tave į labirinto centrą arba išvesiantį lauk. Energetiniai labirintai neklaidina, jie turi aiškią pradžią ir pabaigą, o norint juos pereiti tereikia sekti vienu aiškiu taku. Šių labirintų paskirtis – keliaujančiam juo žmogui leisti pabūti su savimi, pamąstyti, atsipalaiduoti, pamedituoti.</string>
+    <string name="EnergetiniaiLabirintaiUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1161&bih=954&ei=RRwCWrbTIayKgAbrip_wDw&q=Energetiniai+Labirintai&oq=Energetiniai+Labirintai&gs_l=psy-ab.12..0i19k1l4j0i22i30i19k1l4j38.301434.301434.0.302259.1.1.0.0.0.0.231.231.2-1.1.0....0...1..64.psy-ab..0.1.231....0.Dw8YqHZV_9o&gfe_rd=cr&dcr=0]]></string>
+    <string name="EnergetiniaiLabirintaiAddres">Energy labyrinth and geometric shapes Park</string>
+    <string name="OginskiuRumaiAddres">Parko g. 1, Plungė</string>
+    <string name="OginskiuRumaiUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1161&bih=954&ei=QRwCWrGBBIfTgAamuLiIAw&q=Plung%C4%97s+dvaras&oq=Plung%C4%97s+dvaras&gs_l=psy-ab.12..0j0i30k1j0i8i30k1j0i5i10i30k1.1146.1146.0.2806.1.1.0.0.0.0.401.401.4-1.1.0....0...1.1.64.psy-ab..0.1.401....0.j0Hv1XOP554&gfe_rd=cr&dcr=0]]></string>
+    <string name="OginskiuRumaiAprasymas">Už dvaro rūmų – didelis 58,3 hektarų parkas. Su tvenkiniais, tilteliais per juos. Manoma, kad parkas įkurtas XVIII amžiaus viduryje. Parke radome ir seną ąžuolą vadinamą Perkūno ąžuolu. Pasakojama, kad pagonybės laikais šalia medžio šventąją ugnį kūreno vaidilutė Galinda. Vieną dieną jos mylimasis išjojo ginti tėvynės nuo kryžiuočių ir negrįžo. Galinda vis raudodavo, todėl vaidila, matydama sielvarto apimtą vaidilutę, mokė ją nelieti ašarų ir sakė, kad tik šventoji ugnis gali užgesinti žemiškąją meilę. Kartą Galindai raudant po plačiašakiu ąžuolu, į jį trenkė perkūnas. Ąžuolas sudrebėjo, į jo kamieną prikrito žemių, iš kurių netrukus išaugo ypatingai graži gėlė. Nuo to laiko žmonės ąžuolą vadina Perkūno ąžuolu.</string>
+    <string name="OginskiuRumaiAprasymas1">Tarp arklidžių ir dvaro – plati erdvė su žolynais, gėlynais, tvenkiniu pilnu lelijų bei, žinoma, žiedu einančiu keliu, leidžiančiu privažiuoti prie rūmų. Iš karto įsivaizdavau, kaip Oginskių laikais, per rūmuose rengtas puotas, čia su karietomis privažiuodavo daugybė svečių. Apsukusios pusratį, karietos sustodavo prie pagrindinio įėjimo į rūmus, iš jų elegantiškai išlipdavo damos pūstomis suknelėmis, ir laikydamos vyrams už parankių, lėtai užkopdavo pagrindiniais rūmų laiptais</string>
+    <string name="OginskiuRumaiAprasymas2">Ne ką mažiau įspūdingos ir išlikusios neogotikinio stiliaus, raudonų plytų dvaro arklidės.</string>
+    <string name="OginskiuRumaiAprasymas3">Neorenesanso stiliaus rūmus, kurie dabar didingai stovi rekonstruoti ir džiugina lankytojų akis, 1879 m. pastatė kunigaikščiai Oginskiai. Tai buvo Oginskių dvaro rezidenciniai rūmai.</string>
+    <string name="LisitejaUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=Cvv8WeuON8bda5uTh5gF&q=Lisit%C4%97ja+Tel%C5%A1iuose&oq=Lisit%C4%97ja+Tel%C5%A1iuose&gs_l=psy-ab.3...4585.5968.0.6278.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.X5jwulVHvGY&gfe_rd=cr&dcr=0]]></string>
+    <string name="LisitejAddres">Plungės g. 14, Telšiai 87317</string>
+    <string name="LisitejaTelNr">(8-443) 60159</string>
+    <string name="Rosso">Rosso</string>
+    <string name="Roala">Roala</string>
+    <string name="UzsukiteMazeikiuose">Užsukite Mažeikiuose</string>
+    <string name="MazeikiuRestoranaiUrl"><![CDATA[https://www.google.lt/search?rlz=1C1CHBF_enLT747LT747&ei=YMH8WdTDM-7b6QTPyoOgCw&q=Restoranai+Ma%C5%BEeikiuose&oq=Restoranai+Ma%C5%BEeikiuose&gs_l=psy-ab.3..0i19k1j0i22i30i19k1.662419.669186.0.669586.22.22.0.0.0.0.120.1514.21j1.22.0....0...1.1.64.psy-ab..0.22.1506...0j35i39k1j0i20i263k1j0i22i30k1.0._pLL5vVN1SI]]></string>
+    <string name="OldQuartAddres">Respublikos g. 4, Telšiai 87130</string>
+    <string name="OldQuartUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=j_r8WbKZEIT0aruhtYgP&q=Senoji+Kvorta+Tel%C5%A1iuose&oq=Senoji+Kvorta+Tel%C5%A1iuose&gs_l=psy-ab.3...7727.7727.0.11271.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.4QVZC-c28fw&gfe_rd=cr&dcr=0]]></string>
+    <string name="PekinasAddresJava">Žemaitijos g. 47, Mažeikiai 89132</string>
+    <string name="PekinasUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=p_P8We-XGMjF6QSuzISgBg&q=Pekinas+Ma%C5%BEeikiuose&oq=Pekinas+Ma%C5%BEeikiuose&gs_l=psy-ab.3...205045.213065.0.213295.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.MPQCefyn5vk&gfe_rd=cr&dcr=0]]></string>
+    <string name="PekinasTelNrJava">(8-443)50005</string>
+    <string name="PicassoAddresJava">Laisvės g. 26, Mažeikiai 89223</string>
+    <string name="PicassoUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=-Pj8WcDbG4KvarKyqtAI&q=Picasso+Ma%C5%BEeikiuose&oq=Picasso+Ma%C5%BEeikiuose&gs_l=psy-ab.12...27014.28695.0.29425.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.6o1LVQfG_B8&gfe_rd=cr&dcr=0]]></string>
+    <string name="PicassotelNr">(8-443) 27335</string>
+    <string name="RoalaAddres">Žemaitijos g. 44, Mažeikiai 89153</string>
+    <string name="RoalaUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=l_f8WemNG4ad6AT2jLzABw&q=Roala+Ma%C5%BEeikiuose&oq=Roala+Ma%C5%BEeikiuose&gs_l=psy-ab.3...283156.285755.0.286335.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.-3YtM-7dtao&gfe_rd=cr&dcr=0]]></string>
+    <string name="RoalaTelNr">(8-443) 20090</string>
+    <string name="RossoUrl"><![CDATA[https://www.google.com/search?client=firefox-b&ei=gBb-WefeIoWV6ASbloGYCA&q=Astrum+Palace+Ma%C5%BEeikiai&oq=Astrum+Palace+Ma%C5%BEeikiai&gs_l=psy-ab.3...5934.8329.0.10749.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.mDI46eazKGg&gfe_rd=cr&dcr=0]]></string>
+    <string name="RossoAddres">Laisvės g. 7, Mažeikiai 89222, Lithuania</string>
+    <string name="RossoTelNr">+37062030003</string>
+    <string name="SanchajusAddres">Respublikos g. 20, Telšiai 87334</string>
+    <string name="SanchajusUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=1_r8Wei8JMfWa4fXjOgM&q=Raudonasis+Sanchajus+Tel%C5%A1iuose&oq=Raudonasis+Sanchajus+Tel%C5%A1iuose&gs_l=psy-ab.3...19481.23447.0.23634.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.HPah2dfzT4Q&gfe_rd=cr&dcr=0]]></string>
+    <string name="SanchajusTelNr">(8-622) 33663</string>
+    <string name="SaukstelisTelnr">(8-609) 99887</string>
+    <string name="Saukstelisaddres">Dariaus ir Girėno g. 26, Tauragė 72250</string>
+    <string name="SaukstelisUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=WP38WZ-ZLYWla4q5hvgD&q=%C5%A0auk%C5%A1telio+studija+Taurag%C4%97je&oq=%C5%A0auk%C5%A1telio+studija+Taurag%C4%97je&gs_l=psy-ab.12...7841.7841.0.9713.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.zaEQEjyybPQ&gfe_rd=cr&dcr=0]]></string>
+    <string name="SkonioDzazasAddres">20A, Bažnyčių g., Tauragė 72253</string>
+    <string name="SkonioDzazasUrl"><![CDATA[https://www.google.com/search?client=firefox-b&q=Skonio+d%C5%BEiazas+Taurag%C4%97je&spell=1&sa=X&ved=0ahUKEwjrzqLMyaPXAhUL2RoKHe8sAwYQvwUIIygA&biw=1920&bih=971&gfe_rd=cr&dcr=0&ei=8P38WYz9MNDBtAH446v4AQ]]></string>
+    <string name="SkonioDzazasTelNR">(8-698) 72941</string>
+    <string name="StarrPizzaAddres">Bažnyčių g. 20, Tauragė 72253</string>
+    <string name="StarrPizzaUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=ZP38WevACcy7auHjj-gF&q=Star+pizza+Taurag%C4%97je&oq=Star+pizza+Taurag%C4%97je&gs_l=psy-ab.3...109624.111921.0.113912.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.y19jr6SiBD0&gfe_rd=cr&dcr=0]]></string>
+    <string name="StarrPizzaTelNr">(8-690) 33322</string>
+    <string name="hesburger">Hesburger</string>
+    <string name="SkonioDzazas">Skonio džiazas</string>
+    <string name="UzsukiteTaurageje">Užsukite Tauragėje</string>
+    <string name="Saukstelis">Saukstelis</string>
+    <string name="StarrPizza">Star pizza</string>
+    <string name="TauragesRestoranaiUrl"><![CDATA[https://www.google.lt/search?rlz=1C1CHBF_enLT747LT747&ei=4cX8WerqCKXg6AS1-JjwBA&q=Restoranai+Taurag%C4%97je&oq=Restoranai+Taurag%C4%97je&gs_l=psy-ab.3..0i22i30k1.148820.151268.0.151811.9.9.0.0.0.0.71.572.9.9.0....0...1.1.64.psy-ab..0.9.569...0j35i39k1j0i20i263k1j0i22i10i30k1.0.I0kVlv7vu0c]]></string>
+    <string name="TeatroKavineUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=_vn8WYzLONPUafrQhsgG&q=Teatro+kavin%C4%97Tel%C5%A1iuose&oq=Teatro+kavin%C4%97Tel%C5%A1iuose&gs_l=psy-ab.3...13098.18173.0.18222.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.37t4LcpGZc4&gfe_rd=cr&dcr=0]]></string>
+    <string name="TeatroKavineAddres">87333</string>
+    <string name="TeatroKavineTelNR">(8-603) 08742</string>
+    <string name="TelaAddres">Iždinės g. 2, Telšiai 87128</string>
+    <string name="TelaTelNr">(8-444) 60655</string>
+    <string name="TelaUrl"><![CDATA[https://www.google.com/search?client=firefox-b&biw=1920&bih=971&ei=I_r8WdD8HcjhaeeqhrAD&q=Tela+Tel%C5%A1iuose&oq=Tela+Tel%C5%A1iuose&gs_l=psy-ab.3...3908.4893.0.5353.0.0.0.0.0.0.0.0..0.0....0...1.1.64.psy-ab..0.0.0....0.VXy8le-aJiU&gfe_rd=cr&dcr=0]]></string>
+    <string name="KelintoSuma">KELINTOSUMA</string>
+    <string name="GriztameAtgal">Grįžtame atgal</string>
+    <string name="Sanchajus">Raudonasis Šanchajus</string>
+    <string name="AntKalno">Ant kalno</string>
+    <string name="OldQuart">Senoji Kvorta</string>
+    <string name="Jancauskienes">Jančauskienės</string>
+    <string name="Tela">Tela</string>
+    <string name="TeatroKavine">Teatro kavinė</string>
+    <string name="UzsukiteTelsiuose">Užsukite Telšiuose</string>
+    <string name="TelsiuRestoranaiUrl"><![CDATA[https://www.google.lt/search?rlz=1C1CHBF_enLT747LT747&ei=_8P8WfToEcLX6QShw76oDQ&q=Restoranai+Tel%C5%A1iuose&oq=Restoranai+Tel%C5%A1iuose&gs_l=psy-ab.3..0i19k1j0i22i10i30i19k1.112270.114908.0.115740.9.9.0.0.0.0.74.612.9.9.0....0...1.1.64.psy-ab..0.9.610...0j0i20i263k1j0i22i30k1j0i22i30i19k1.0.fvndMWUHbo8]]></string>
+    <string name="ZemaitijaViki">https://lt.wikipedia.org/wiki/%C5%BDemaitija</string>
+    <string name="RoalaAprasymas">Kavinė „Roala“ lepina savo klientus skaniais, pigiais bei greitais dienos pietumis. Savaitgalį taikomos ypatingos nuolaidos.</string>
+    <string name="RoalaPavadinimas">Roala</string>
+    <string name="RoalaTelNR">Tel. nr. (8-443) 20090</string>
+    <string name="RossoDescription">Šiaurės Lietuvoje, Mažeikiuose įsikūręs 4 žvaigždučių viešbutis siūlo numerius su oro kondicionieriais ir dideliais marmuro vonios kambariais. Svečiams siūloma nemokamai naudotis belaidžiu internetu ir automobilių stovėjimo aikštele. Garsui nepralaidžiuose viešbučio numeriuose yra LCD televizoriai, mini barai ir darbo stalai. Senamiesčio širdyje įsikūręs restoranas jau įrodė, kad jiems svarbiausia - klientas. Didžioji valgiaraštyje esančių patiekalų dalis yra ruošiami ant griliaus, o tai suteikia maistui savitą skonį. Profesionalūs virtuvės šefai ir aptarnaujantis personalas laukia visų, kurie vertina kokybę bei turi išskirtinį skonį.</string>
+    <string name="RossoTitle">Astrum Palace</string>
+    <string name="RossoTelNR">Tel. nr. +37062030003</string>
+    <string name="RossoAddresas">Adresas: Laisvės g. 7, Mažeikiai 89222, Lithuania</string>
+    <string name="SanchajusDescription">Restorane „Raudonasis Šanchajus“ galėsite pasimėgauti gurmaniškais kinų patiekalais jaukioje rytietiškoje atmosferoje. Šeimos bei verslo šventes ar linksmai praleisite laiką gyvos muzikos vakaruose. „Raudonasis Šanchajus“ – tai skanus kiniškas maistas, malonus darbuotojų kolektyvas bei jauki Kinijos dvasia pačioje Telšių širdyje.</string>
+    <string name="SanchajusTitle">Raudonasis Šanchajus</string>
+    <string name="SanchajusTelNR">Tel. nr. (8-622) 33663</string>
+    <string name="SanchajusAddresas">Adresas: Respublikos g. 20, Telšiai 87334</string>
+    <string name="SaukstelisTitle">Šaukštelis</string>
+    <string name="SaukstelisDescription">„Šaukštelis“ – sušių baras-vyninė yra įsikūręs Tauragės miesto centre. Tai vienintelė vieta mieste, kuri specializuojasi būtent sušių gamyboje ir siūlo platų japoniškų suktinukų asortimentą.</string>
+    <string name="SaukstelisTelNr">Tel. nr. (8-609) 99887</string>
+    <string name="SaukstelisAddres">Adresas: Dariaus ir Girėno g. 26, Tauragė 72250</string>
+    <string name="SkonioDzazasTitle">Skonio Džiazas</string>
+    <string name="SkonioDzazasDescription">Modernus europietiško stiliaus restoranas kviečia visus norinčius skaniai pavalgyti bei maloniai praleisti laiką. Taip pat restoranas siūlo savaitgalio šeimos pietus.</string>
+    <string name="SkonioDzazasTelNr">Tel. nr. (8-698) 72941</string>
+    <string name="SkonioDzazasAddresas">Adresas: 20A, Bažnyčių g., Tauragė 72253</string>
+    <string name="SmagratisDescription">„Motelis „Smagratis“ įsikūręs Kretingoje, visai netoli A11 magistralės, vaizdingos augalijos apsuptyje. Svečiams čia siūloma apsistoti numeriuose, kuriuose veikia nemokamas belaidis internetas. Už 2,1 km nuo motelio yra miesto aikštė.     Visuose jaukiai įrengtuose numeriuose yra vonios kambariai, šaldytuvai ir rašomieji stalai, o pro kai kurių langus atsiveria puikūs ežero arba sodo vaizdai.     Į restorano, kuriame kasdien patiekiami pusryčiai, valgiaraštį įtraukti europietiški patiekalai. Motelyje yra sauna, turkiška pirtis, vaikų žaidimų aikštelė bei visą parą dirbanti registratūra.     „Smagračio“ restorane gaminamas maistas iš šviežių produktų ir pačių išaugintų daržovių. Šiltuoju metu svečiai kviečiami į terasą prie tvenkinio.</string>
+    <string name="SmagratisTelNr">Tel. nr. (8-657) 99157</string>
+    <string name="SmagratisAddres">Adresas: Žemaitės al. 31, Kretinga 97106</string>
+    <string name="StarrPizzaTitle">Star Pizza</string>
+    <string name="StarrPizzaDescription">Star Pizza - tai picerija kurioje galite paragauti įvairiausių picų jaukioje terasoje, o taip pat užsisakyti picą į namus.</string>
+    <string name="StarrPizzaTelNR">Tel. nr. (8-690) 33322</string>
+    <string name="StarrPizzaAddresas">Adresas: Bažnyčių g. 20, Tauragė</string>
+    <string name="TeatroKavineTitle">Teatro kavinė</string>
+    <string name="TeatroKavineDescription">Visada karšti ir skanūs dienos pietūs, didelės porcijos nuolatos džiugina kavinės lankytojus.</string>
+    <string name="TeatroKavineTelNr">Tel. nr. (8-603) 08742</string>
+    <string name="TeatroKavineAddresas">Adresas: Respublikos g. 18, Telšiai 87333</string>
+    <string name="TelaTitle">Tela</string>
+    <string name="TelaDescription">Jaukioje ramioje vietoje įsikūrusio restorano „Tela“ personalas Jus pasitiks jau prie durų, o skanus maistas neleis pamiršti šios vietos.</string>
+    <string name="TelaTelNR">Tel. nr. (8-444) 60655</string>
+    <string name="TelaAddresas">Adresas: Iždinės g. 2, Telšiai 87128</string>
+    <string name="VienaragioMalunasDescription">Senoviniame pastate įsikūręs restoranas „Vienaragio malūnas“ dvelkia ne vien senove, bet ir mistika. Juk Vienaragis - tai gėrio pranašas, kuris neša laimę, sėkmę. Šiandien senajame malūne įsikūrusiame ištaigingame restorane siūlomas išskirtinis meniu išrankiausiam skoniui.</string>
+    <string name="VienaragioMalunasTelNr">Tel. nr. (8-615) 98778</string>
+    <string name="VienaragioMalunasAddres">Adresas: Kretinga, Birutės g.19/Malūno takas 1</string>
+</resources>

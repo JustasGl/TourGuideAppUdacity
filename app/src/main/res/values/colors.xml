@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="skyriklis">#212121</color>
+    <color name="juoda">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="gray">#565656</color>
+    <color name="coloroftoolbar">#00ffffff</color>
+    <color name="backgroundofMoreButton">#ed5564</color>
+    <color name="GaleryTitleColor">#caffffff</color>
+    <color name="GaleryMapButtonColor">#3498db</color>
+    <color name="MainActivityTitleBacground">#87000000</color>
+    <color name="MainActivityTitlecolor">#e7ffffff</color>
+    <color name="GalerryBackground">#172029</color>
+
+</resources>

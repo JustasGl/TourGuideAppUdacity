@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/GalerryBackground">
+
+    <RelativeLayout
+        style="@style/matchnmatch">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/my_toolbar"
+            style="@style/stroke"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:elevation="@dimen/marginLittle"
+            android:theme="@style/ToolBarStyle" />
+
+        <LinearLayout
+            style="@style/matchnmatch"
+            android:orientation="vertical"
+            tools:context="com.example.android.turistas.lankytinos_vietosgalerry">
+
+            <TextView
+                android:id="@+id/pavadinimas"
+                style="@style/GaleryTitle" />
+
+            <RelativeLayout
+                style="@style/matchnwrap">
+
+                <ImageView
+                    android:id="@+id/galerija"
+                    style="@style/matchnmatch"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="fitCenter"
+                    android:contentDescription="@string/galeryimage" />
+
+                <ImageView
+                    android:id="@+id/atgal"
+                   style="@style/GaleryLeft"
+                    android:src="@drawable/back"
+                    android:contentDescription="@string/arrowleft" />
+
+                <ImageView
+                    android:id="@+id/pirmyn"
+                   style="@style/GaleryRight"
+                    android:src="@drawable/next"
+                    android:contentDescription="@string/rightarrow"/>
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/aprasymas"
+                style="@style/GaleryDescription" />
+
+            <ImageView
+                android:id="@+id/mapas"
+                style="@style/GaleryMapButton"
+                android:contentDescription="@string/mappic" />
+
+            <ImageView
+                android:id="@+id/gsearch"
+               style="@style/GaleryMoreButton"
+                android:contentDescription="@string/MoreButton" />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>
