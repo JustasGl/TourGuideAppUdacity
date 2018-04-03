@@ -58,7 +58,7 @@ public class Cancan extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 skamb();
-                String phone = "(8-659) 13265";
+                String phone = getApplicationContext().getString(R.string.CanCanTelNrJava);
                 Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts(getApplicationContext().getString(R.string.tel), phone, null));
                 startActivity(intent);
             }

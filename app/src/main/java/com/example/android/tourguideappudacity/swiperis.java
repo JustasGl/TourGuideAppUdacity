@@ -1,14 +1,16 @@
 package com.example.android.tourguideappudacity;
 
+import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 
 public class swiperis extends FragmentPagerAdapter {
-
-    public swiperis(FragmentManager fm) {
+    Context context;
+    public swiperis(FragmentManager fm, Context context) {
         super(fm);
+        this.context = context;
     }
 
     @Override
@@ -28,8 +30,8 @@ public class swiperis extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         if (position==0)
-        return "Mažeikiai";
-        else return "Telšiai";
+        return context.getString(R.string.Mazeikiai);
+        else return context.getString(R.string.Telsiai);
     }
 
 }

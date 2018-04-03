@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.android.tourguideappudacity", appContext.getPackageName());
+        assertEquals(appContext.getString(R.string.PackageName), appContext.getPackageName());
     }
 }

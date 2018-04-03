@@ -539,4 +539,13 @@
     <string name="VienaragioMalunasDescription">Senoviniame pastate įsikūręs restoranas „Vienaragio malūnas“ dvelkia ne vien senove, bet ir mistika. Juk Vienaragis - tai gėrio pranašas, kuris neša laimę, sėkmę. Šiandien senajame malūne įsikūrusiame ištaigingame restorane siūlomas išskirtinis meniu išrankiausiam skoniui.</string>
     <string name="VienaragioMalunasTelNr">Tel. nr. (8-615) 98778</string>
     <string name="VienaragioMalunasAddres">Adresas: Kretinga, Birutės g.19/Malūno takas 1</string>
+    <string name="Mazeikiai">Mažeikiai</string>
+    <string name="Telsiai">Telšiai</string>
+    <string name="CanCanTelNrJava">(8-659) 13265</string>
+    <string name="CharlieTelNrJava">(8-610) 01809</string>
+    <string name="DziugoNamaiTelNrJava">+370-444-53748</string>
+    <string name="PackageName">com.example.android.tourguideappudacity</string>
+    <string name="GamaTelNr">(8-443) 35355</string>
+    <string name="JancauskienesTelNr">(8-444) 74898</string>
+    <string name="OldQuartTelNr">(8-604) 52502</string>
 </resources>

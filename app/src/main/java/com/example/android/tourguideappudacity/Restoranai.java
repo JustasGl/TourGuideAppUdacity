@@ -40,7 +40,7 @@ public class Restoranai extends AppCompatActivity {
         }
         ViewPager viewPager = findViewById(R.id.viewpager);
 
-        swiperis adapter = new swiperis(getSupportFragmentManager());
+        swiperis adapter = new swiperis(getSupportFragmentManager(),getApplicationContext());
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
         viewPager.setAdapter(adapter);

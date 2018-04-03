@@ -58,7 +58,7 @@ public class Charlie extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 skamb();
-                String phone = "(8-610) 01809";
+                String phone = getApplicationContext().getString(R.string.CharlieTelNrJava);
                 Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts(getApplicationContext().getString(R.string.tel), phone, null));
                 startActivity(intent);
             }

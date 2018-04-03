@@ -67,7 +67,7 @@ public class arkos extends FragmentActivity {
             public void onClick(View view) {
                 skamb();
                 String phone = getApplicationContext().getString(R.string.ArkosTelNrJava);
-                Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts("tel", phone, null));
+                Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts(getApplicationContext().getString(R.string.tel), phone, null));
                 startActivity(intent);
             }
         });

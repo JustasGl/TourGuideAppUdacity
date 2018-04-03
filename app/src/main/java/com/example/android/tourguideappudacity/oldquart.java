@@ -58,7 +58,7 @@ public class oldquart extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 skamb();
-                String phone = "(8-604) 52502";
+                String phone = getApplicationContext().getString(R.string.OldQuartTelNr);
                 Intent intent = new Intent(Intent.ACTION_DIAL, Uri.fromParts(getApplicationContext().getString(R.string.tel), phone, null));
                 startActivity(intent);
             }
